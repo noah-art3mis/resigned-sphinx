@@ -1,0 +1,685 @@
+# Resignar-se ao Real: Lacan e o fascínio pelo inefável (v1.3)
+
+## A onipresença da linguagem pode realmente ser levada a sério?
+
+### A magia do corpo
+
+> Jacques Lacan, diferentemente [de Freud], recorreu à linguística, à topologia, à matemática e por fim até à biologia no esforço de conferir às estruturas freudianas uma formalização mais precisa. O que certamente nunca será suficiente para assegurar a magia do que se alcança como efeito da ação do analista na experiência psicanalítica. (Santos &  Santiago, 2012, p. 8)
+
+> É desse real que a psicanálise se ocupa, conservando-o como insensato, em contraponto à ciência que sempre pretende civilizá-lo pela via dos semblantes. (Cordeiro, 2017)
+
+> Em vez de entender, logo de uma vez, que não há problema algum na existência de uma dimensão da experiência humana que escapa às palavras, insistem em encontrar um nome para o que não tem. Ou seja: não é que se sintam burros, é que agem como tal! (Riolfi, 2014a, p. 437)
+
+Certos psicanalistas lacanianos pintam a ciência como incapaz de alcançar a magia de sua prática. Apesar da aversão ao “positivismo” por parte de seus discípulos, Lacan também costuma ser colocado no campo contrário. Um estruturalista frio, dedicado à matemática em vez dos afetos, à estrutura em vez do corpo, à metafísica em vez da realidade.
+
+> Na verdade, Freud era um homem muito simples [...]. Ele não tentou flutuar na superfície das palavras. O senhor está agindo como uma aranha; o senhor está construindo uma teia muito delicada, sem qualquer realidade humana. Por exemplo, o senhor falou de alegria [jouissance]. Em francês, um dos sentidos de *jouir* é orgasmo – acho que é de grande importância aqui – por que não dizê-lo? Tudo o que ouvi aqui hoje foi tão abstrato! …não se trata de psicanálise. O valor da psicanálise está em ser uma teoria do dinamismo psicológico. O mais importante é o que veio depois de Freud, especialmente com Wilhelm Reich. Não é necessário toda essa metafísica. O diagrama era muito interessante, mas não parece ter qualquer ligação com a realidade de nossas ações, com o comer, como ato sexual e assim por diante. (Fletcher apud Lacan, 1970, p. 208)
+
+Segundo Eidelsztein (2009), o ensino de Lacan fracassou por não ter sido compreendido na maior novidade que oferece: sua abordagem do corpo. Em vez de um progresso em direção à dessubstancialização, assumiram que seu retorno a Freud seria em total continuidade. Com isso, perde-se a chance de inovação que a teoria lacaniana oferece ao associar gozo e satisfação pulsional. Retornou-se ao que Freud oferecia de mais antiquado: o corpo biológico.
+
+Como sintetizar duas posições tão distintas – a dureza matemática e a vitalidade corporal – em apenas uma filosofia? Como localizar essa linha na história da filosofia?
+
+Uma maneira simples de fazê-lo é: não sintetizando. Afirma-se que Lacan teve um momento simbólico (estruturalista) e um momento real; a matemática ficou no momento estruturalista, recusada em favor da materialidade do corpo. Matemática é coisa de cientista, que é o tipo de gente que “age como se fosse burro” e “tenta achar um nome para o que não tem”.
+
+Assim, os lacanianos combinam seu anticientificismo com o vitalismo reichiano que nos aponta Fletcher. Retomam o espírito do corpo, do comer, do ato sexual que não pode ser abordado pelas palavras. O resultado é o corpo Real. 
+
+Eidelsztein (2009) afirma o fracasso do projeto lacaniano porque ele ainda não foi escutado. Proponho que façamos uma pergunta anterior: faz sentido escutar tal desconstrução no interior do pensamento lacaniano?
+
+### De boas intenções, o inferno está cheio
+
+A proposta de Lacan foi inovadora a ponto de precisar recorrer a palavras novas e/ou enigmáticas: *moterialisme*, *parletre*, gozo do Outro, etc. Podemos entender isso como um capricho de um homem (que foi, inegavelmente, um tanto caprichoso) ou podemos entendê-lo como um passo necessário para a elaboração de uma teoria realmente nova, acreditando que ele tentava falar de algo que ainda não tinha nome. Eu acredito que era isso que ele estava tentando fazer; nos cabe avaliar se ele conseguiu.
+
+No que me concerne, Lacan não foi frio o bastante. Há, de fato, uma “onipresença da linguagem” na teoria lacaniana? Caso contrário, a linguagem precisaria se ancorar em alguma fonte (material ou transcendental) de legitimidade, uma realidade anterior que a determina. 
+
+O corpo Real, tipicamente, toma esse lugar de significação para além da linguagem. Eles estão sendo fiéis à causa lacaniana ou isso é uma divergência ideológica milleriana?
+
+Parte do impedimento desse progresso é colocar a construção teórica nesses termos valorativos: “causa lacaniana”, “ideologia”, etc. Ainda assim, acho que é de interesse para aqueles que se dizem lacanianos, mas não millerianos, investigarem até aonde chega sua “herança”.
+
+Entendo que a ancoragem em uma fonte transcendental de Verdade é uma operação tipicamente lacaniana. A única diferença produzida pelos millerianos foi colocar essa fonte na “materialidade do corpo”. O progresso de nossa disciplina depende de recusar tanto o retorno ao corpo biológico como o retorno a qualquer tipo de Verdade, conforme Lacan faz com o Real.
+
+
+Eidelsztein (2020) critica o entendimento distorcido da teoria lacaniana por meio da lente do freudismo. Minha tese é que, mesmo em um entendimento estritamente lacaniano, tais problemas permanecem.
+
+> É previsível que Lacan tenha falado uma coisa e feito outra. É uma atitude típica sua: ele diz que “há uma resistência”, mas que não diz qual; diz que fracassou, mas que não diz como; cita Freud, sem deixar claro se concorda ou discorda. Investigar isso é uma perda de tempo. Gastamos uma quantidade incontável de energia na exegese de um texto que não foi feito para ler lido (Lacan, TR[^1], p. 64).
+
+Em primeiro lugar, precisamos separar as intenções do texto de sua direção. O que um autor quer de um texto é, muitas vezes, diferente do que o texto realmente faz. O leitor pode ser inspirado tanto por um quanto pelo outro. Mesmo que a direção que o texto tome seja diferente de suas intenções desconstrutivas, não é “irresponsabilidade” da parte do leitor privilegiar, em sua leitura, aquilo que foi feito (entendido enquanto ato de fala, interior ao texto em si), em vez daquilo que o autor diz serem suas intenções.
+
+Por isso, entendo que o vitalismo milleriano tem sua origem na incapacidade lacaniana de abrir mão de uma Filosofia. Eles não estão errados por fazerem diferente do que está no texto. Há, afinal, uma versão do que eles dizem lá. Eles estão errados por não conseguirem abrir mão do texto lacaniano, sendo obrigados a se referenciar a ele mesmo ao afirmarem coisas contrárias. Esse problema – a fonte de legitimação do discurso psicanalítico – é um problema imenso, que não tenho como abordar aqui. Basta dizer que a tentativa de trazer algo diferente é também uma tentativa de endereçar esse ponto, ao tirar das mãos do mestre o monopólio da legitimidade.
+
+### Infidelidade à causa verdadeira
+
+> Enquanto se mantiver no caminho freudiano de considerar que houve um trauma – que, ao dizer atual, equivaleria a “nascer com um gozo” e que seria o traumático, o corpo que caiu para nós – com a modalidade energética do referido trauma, que foi recebido do passado, quais seriam as chances de cura e/ou mudança? A proposta pós-lacaniana atual é que, diante desse gozo, será preciso se acostumar, fazer amigos, “saber fazer”, tê-lo como parceiro etc. (Eidelsztein, 2010, p. 105)
+
+> Faz tempo que me pergunto para que se analisaria alguém com um analista que tem esta noção de gozo e de sujeito. Se há em cada um de nós algo singular e invariável, para que perder tempo e dinheiro fazendo análise? Só para constatar o que não muda? O final da análise limita-se a aceitar o inevitável; parar de lutar contra minha natureza imutável. (Goldenberg, 2018, p. 148).
+
+> Devemos poder nos acostumar ao real. (Lacan, TR, p. 77).
+
+Autores como Eidelsztein e Goldenberg são fiéis às intenções lacanianas; autores como Miller são fiéis à direção do texto lacaniano. Quem é mais fiel?
+
+Esse discurso da fidelidade é uma piada. Nossos colegas freudolacanianos fazem uma leitura perfeitamente legítima da obra lacaniana. Só acontece de ser uma leitura com consequências péssimas: anticientificismo, anti-intelectualismo, vitalismo, etc. Isso nada tem a ver com “distorção” ou “fidelidade”, seja lá o que isso signifique.
+
+O importante não é medir a correspondência com aquilo que foi originalmente dito, mas avaliar aquilo que o sistema faz. Sua legitimidade não deve ser dada em função da correspondência à autoridade, mas em função das consequências de sua teoria.
+
+Nada do que falo é novidade – o que não quer dizer que precise ser inserido nessa narrativa do retorno. Veja qualquer pergunta que foi feita a Lacan: elas levantam exatamente os mesmos problemas. O real não é ontológico? A certeza não é religiosa? Ao que Lacan sempre responde: é claro que não (Lacan, S11, p. 128, p. 134; TR, p. 80; 1970, p. 208). O que parece bastar para que o psicanalista acredite.
+
+> Jornalista: Na sua filosofia...  
+> Lacan: Não sou filósofo, nem um pouco.  
+> J: Uma noção metafísica ontológica do real...  
+> L: Não é nada ontológico.  
+> J: Você empresta uma noção kantiana do real  
+> L: Não é nem remotamente kantiano.  
+> (Lacan, TR, p. 80)
+
+
+Se alguém precisa chegar ao ponto de falar que não é um filósofo, essa pessoa, muito provavelmente, está filosofando. Não temos motivo para confiar na palavra de Lacan. O que não nos impede de utilizá-la como ferramenta. Mas apenas uma entre outras, integrando um conjunto variado em nossa caixa.
+
+## Realismo intuitivo
+
+### Positivistas e platônicos
+
+Rorty (1982) descreve, na história da filosofia, uma diferença fundamental entre filosofia transcendental e empírica, ou entre platônicos e positivistas. Para os transcendentais/platônicos, haveria alguma Verdade para além daquilo que encontramos no mundo. Para os empíricos/positivistas, o mundo fornece todas as Verdades que precisamos.
+
+Tanto no positivismo quanto no platonismo são buscadas Verdades. Há um certo consenso sobre a diferença entre opinião e conhecimento, entre verdades triviais e verdades importantes. A diferença é aonde essas verdades serão encontradas. O positivista busca a verdade objetiva dos fatos; o platônico busca a pureza da ideia correta.
+
+De qualquer forma, apesar deles não concordarem no que “realidade” significa, em ambos os casos, é um tipo de correspondência a alguma realidade. Rorty (1982) contrapõe, a essas duas, a sua própria perspectiva: o pragmatismo, que se diferencia da Filosofia ao não buscar a Verdade. Para o pragmatista, algo não é verdadeiro porque corresponde a uma realidade, mas simplesmente porque funciona. Ele não busca algum tipo de Verdade, mas enunciados que sirvam.[^2]
+
+### Realistas técnicos e intuitivos
+
+Rorty também descreve reações ao pragmatismo. É o realismo, dividido em suas vertentes técnica e intuitiva. 
+
+Para o realista, a verdade precisa corresponder a algo. Para o realista técnico, existem fatos que são objetivos, uma verdade que não é função da intenção de ninguém, uma simples materialidade. É a posição, digamos, “científica”, no conceito de ciência agenciado por muitos psicanalistas. Possivelmente, é a isso que os lacanianos se referem quando dizem “positivistas”; uma posição um tanto ingênua em relação à função da linguagem como descritiva da realidade e da possibilidade de uma ciência última.
+
+Para o realista intuitivo, por outro lado, apenas há intuições que não podem ser ignoradas. Essas intuições podem ser abordadas de duas formas:
+
+1. Elas podem se referir a algo comum entre todas as linguagens. A síntese de tais partes comuns resultaria em uma linguagem que fosse comensurável a todas as outras, ou seja, uma metalinguagem.
+
+1. Elas podem se referir a um lugar em que a linguagem não alcança. A crítica do realista intuitivo é que os problemas mais interessantes se encontram exatamente onde a linguagem falha. 
+
+
+Esse é o ponto que nos interessa mais, pois é precisamente a posição lacaniana. Que haja pontos que a linguagem é incapaz de acessar, significa que ela não é onipresente.
+
+Em resumo: o positivismo e o platonismo se digladiam a milênios; o pragmatismo se opõe a esse conflito; o realismo se opõe ao pragmatismo, pelas vias técnica e intuitiva; o realismo intuitivo diz que ou há uma metalinguagem ou há um Real inefável.
+
+### A metalinguagem e o inefável
+
+Lacan, mesmo que nunca tenha entrado em diálogo com esse debate, parece encaixar-se precisamente nessa disputa.
+
+Por ter sido uma posição extensivamente criticada por Lacan, nenhum psicanalista hoje se comprometeria com a posição realista técnica, mesmo que ela seja bastante comum em outros campos. Nela, a função da linguagem é descrever a realidade, com a consequência de que seria possível uma linguagem perfeita. Portanto, a) há uma realidade, b) a linguagem serve para descrevê-la e c) uma metalinguagem é possível.
+
+A teoria lacaniana configura um realismo intuitivo: a linguagem como tentativa fracassada de abordar o Real, que só pode ser bordejado. Essa posição possui, de partida, grande ressonância com conceitos freudianos de sintoma (uma tentativa fracassada de conciliação) e com umbigo do sonho (como um lugar inalcançável pelo discurso). Minha intuição já aponta pra que seja verdade![^3]
+
+A metalinguagem é um ponto sobre o qual Lacan insistiu, direta ou indiretamente: 
+
+> Não mantenho a exigência de Duhem, de que cada ciência se refira a um sistema unitário, dito sistema do Mundo – referência sempre, em suma, mais ou menos idealista, pois referência à necessidade de identificação. Eu chegaria mesmo a dizer que podemos dispensar o complemento transcendente implícito na posição do positivista, o qual se refere sempre a uma unidade última de todos os campos. (Lacan, S11, p. 16)
+
+> Não há metalinguagem (Lacan, 1970, p. 200).
+
+É de nosso interesse a maneira com que Lacan categoriza o positivista como idealista e transcendente. Isso o colocaria do lado do platonismo e do materialismo ao mesmo tempo. Parece paradoxal, mas, como veremos, é exatamente esse o resultado.
+
+Mais importante é o segundo ponto: o Real inacessível pela linguagem. Não porque uma linguagem excepcional não conseguiu ainda (a posição realista técnica), nem porque linguagens específicas são instrumentos para trabalhos específicos (a posição pragmatista). Há um bloqueio, coincidentemente, na parte mais importante da experiência humana, um umbigo da linguagem, um grande sintoma do homem, sua grande doença (Lacan, TR).
+
+Fala-se de um lugar em que a linguagem não alcança, que é o Real. É tudo aquilo que existe de forma inapreensível, estruturalmente impossível de ser alcançado, que “não cessa de não se escrever”, etc. A maneira com que esse conceito foi “transmitido” merece atenção. Um conceito quase-epistemológico sobre a experiência de uma lacuna na consciência se transformou na  “magia da psicanálise”. Com isso, ele indica uma superação dos limites da ciência por meio do “sem sentido”, do “puro gozo” de uma “singularidade irredutível a qualquer formalização”.
+
+## O Real lacaniano
+
+### Lá vamos nós...
+
+> O sinthome é o singular do indivíduo. Ele não desaparece, nem quando é interpretado. Essa noção de singularidade ultrapassa qualquer categoria ou estrutura... (Assad & Barreto, p. 149)
+
+> Há um “X”, reconhece Clarice Lispector, um impronunciável, do qual não há saber – apenas as coisas impossíveis parecem ser nomeadas, denominadas por um “X” impronunciável do qual nada se sabe; entretanto, a autora o reconhece presente, existente dentro de si. (Assad & Barreto, p. 151)
+
+> [Freud se] questiona se na psicanálise há cura possível ou se nós todos, homens e mulheres, não somos irremediavelmente doentes em razão dos sacrifícios que a civilização nos impõe e que deixam em nosso inconsciente como resto o inamovível “rochedo da castração”. (Rudiger, 2014, p. 413)
+
+> O inconsciente é o próprio real concebido no último ensino de Lacan, um real sem matema, baseado na desordem trazida pela pulsão de morte, na fala autoerótica que implica o puro gozo assemântico de lalíngua, o sem sentido por onde o real se apresenta sem lei. É desse real que a psicanálise se ocupa, conservando-o como insensato, em contraponto à ciência que sempre pretende civilizá-lo pela via dos semblantes. (Cordeiro, 2017)
+
+> O inconsciente é real, ele só se torna simbólico, outro, a partir da operação analítica. Ela faz o inconsciente passar do Real ao simbólico. Primeiro, há o inconsciente Real e, nesse sentido, a associação livre viria em um segundo momento e já seria o romance da verdade. (Bogochvol, 2014, p. 427)
+
+> O que o analista faz com as palavras que lhe são dirigidas? Ele dirige a análise para mostrar que, em hipótese alguma, as palavras são capazes de capturar a realidade das coisas. Utilizando manobras variadas, ele mostra que uma palavra nomeia, mas não recobre os modos de uma pessoa viver. (Riolfi, 2014b, p. 175).
+
+> Cada um de nós tem, nas palavras de Wittgenstein, um “sobre aquilo de que não se pode falar”. Tem, inclusive, caso não queira sofrer desnecessariamente, um convite para dever calar-se a respeito do que não tem nome. Não por censura, evidentemente, mas por impossibilidade. É o caso da libido freudiana, força vital que não pode ser recoberta por meio das palavras. (Riolfi, 2014b, p. 441)
+
+> Não importando tanto os termos ou a visão freudiana do sexo, o que ele notava é que sempre haverá um ponto de vazio em uma análise, tornando infinito o processo elucidativo. O dito em análise jamais será suficiente, e pode continuar indefinidamente, porque nem tudo pode ser nomeado. (Forbes, 2014, p. 11).
+
+Ah, você diz, mas essas são fontes secundárias! São distorções, divergências do ensino lacaniano, que era revolucionário por natureza! Pois bem.[^4]
+
+> Eu sempre digo a verdade: não toda, porque dizê-la toda não se consegue. Dizê-la toda é impossível, materialmente: faltam palavras. É por esse impossível, inclusive, que a verdade tem a ver com o real. (Lacan, TV, p. 508) 
+
+> a verdade do sujeito, mesmo quando ele está em posição de mestre, não está nele mesmo, mas, como a análise o demonstra, num objeto, velado por natureza. (Lacan, S11, p.13)
+
+> O que é que pode mesmo, para o analista, ratificar no sujeito o que se passa no inconsciente? Freud, para localizar a verdade – eu mostrei a vocês quando estudei as formações do inconsciente – se remete a uma certa escansão significante. O que justifica essa confiança é uma referência ao real. (Lacan, S11, p.43).
+
+### Espero que você não tenha cansado de citações
+
+Façamos, agora, uma longa viagem em que eu tento demonstrar minha tese.
+
+> Ouço frisar que a psicanálise é, à primeira vista, propícia a nos dirigir para um idealismo. Deus sabe que se lhe tem reprochado isto – ela reduz a experiência, dizem alguns, que nos solicita a achar nos duros choques do conflito, da luta, mesmo da exploração do homem pelo homem […]  Nenhuma práxis, mais do que a análise, é orientada para aquilo que, no coração da experiência, é o núcleo do real. (Lacan, S11, p. 55)
+
+O marxismo e a psicanálise são as duas grandes narrativas do século XX. Como chaves mestras para a compreensão de qualquer fenômeno, é de se imaginar que elas sempre se encontrariam em impasses axiomáticos. Lacan afirma que a psicanálise não é um idealismo, pelo menos na medida em que é criticada pelos materialistas. Isso leva Lacan a afirmar, de certa forma, o contrário: ela é extremamente materialista, tendo em vista que se orienta pelo Real.
+
+> É desse passo que depende que se pudesse chamar o sujeito de volta para casa, no inconsciente – pois de qualquer modo, importa mesmo saber quem a gente chama. Isso não é a alma de sempre, nem mortal, nem imortal, nem sombra nem duplo, nem fantasma, nem mesmo psicosfera em pretensa carapaça, lugar das defesas e outros esquematismos. […] É preciso, para compreender os conselhos freudianos, partir desse fundamento de que é o sujeito que é chamado – o sujeito da origem cartesiana. Este fundamento dá função verdadeira ao que chamamos, em análise, rememoração. A rememoração não é a reminiscência platônica, não é o retorno de uma forma, de uma impressão, de um dos eidos de beleza e de bem que nos vem do além, dum verdadeiro supremo. É algo que nos vem das necessidades de estrutura, de algo humilde, nascido no nível dos mais baixos encontros [...] cujo modelo, cujo estilo, são curiosamente de serem encontrados, em nossos dias, nas matemáticas. (Lacan, S11, p. 47)
+
+Lacan diz: há um sujeito que é convocado, que é o cartesiano. Não é relativo ao platonismo, em que é a rememoração do mundo perfeito das ideias. Chama-se de volta pra casa esse sujeito, que não é a alma imortal, nem mesmo o sujeito freudiano (“psicosfera”). É apenas a estrutura em sua necessidade, que nos é delineada pela matemática.
+
+Uma estrutura que não é produzida, mas à qual se retorna. Não é a verdade absoluta do platonismo, é apenas a necessidade da estrutura!
+
+> Não é uma analogia. Está realmente em alguma parte das realidades, esse tipo de toro. Esse toro realmente existe e é exatamente a estrutura do neurótico. Não é um analogon; não é nem mesmo uma abstração, porque uma abstração é algum tipo de diminuição da realidade, e eu acho que é a própria realidade. (Lacan, 1970, p. 208)
+
+Esse tipo de afirmação contra as abstrações vem de uma longa linhagem filosófica, de (como sempre) Platão, a Hegel, Husserl, Heidegger, e a escola de Frankfurt; seu último representante deve ser Han. Não é coincidência que o psicanalista é inspirado por afirmações como “o vivido se esvai na fumaça da representação” (Debord apud Vieira, 2012).
+
+Dentre muitas coisas, Platão também fundou uma cruzada milenar contra a representação, em defesa do objeto em si. Essa dicotomia é a fundação da metafísica da presença: a fala acima da escrita, a memória acima da rememoração, a escultura acima da pintura, bem como muitos outros exemplos descritos em Derrida (1972/1991).
+
+> O real pode ser representado pelo acidente, pelo barulhinho, a pouca-realidade, que testemunha que não estamos sonhando. Mas, por outro lado, essa realidade não é pouca, pois o que nos desperta é a outra realidade escondida por trás da falta do que tem lugar de representação – é o Trieb, nos diz Freud. (Lacan, S11, p. 61)
+
+Nos diz Lacan! O real é a pulsão, em toda a sua glória freudiana – satisfação pulsional corporal. O barulho no sonho representa o verdadeiro Real, a “outra realidade escondida”. O acidente não é considerado Real por ser acidental – inesperado, produtor de surpresa, etc. –, mas por representar uma realidade ulterior, mais real que o real.
+
+> Primeiro a tiquê que tomamos emprestada, eu lhes disse da última vez, do vocabulário de Aristóteles em busca de sua pesquisa da causa. Nós a traduzimos por encontro do real. O real está para além do autômaton, do retorno, da volta, da insistência dos signos aos quais nos vemos comandados pelo princípio do prazer. O real é o que vige sempre por trás do autômaton... (Lacan, S11, p. 56)
+
+Para além do simbólico, o Real. O Real é, propriamente, a causa. Tiquê é o encontro com o Real para além da repetição significante. O encontro vital, para além da frieza da maquinaria.
+
+Um sujeito, como indivíduo, sempre reencontra seu real, que é sempre o mesmo. Para além das repetições (automata), a causa delas. Aquilo que alimenta os significantes, que os anima. Aqui retorna a necessidade de correspondência com a realidade.
+
+O sujeito de que se trata aqui é o sujeito cartesiano, o “sujeito que duvida”, ou seja, inevitavelmente, um indivíduo. Não é o sujeito como assunto, o sujeito localizado. Não é o sujeito da ciência em seu sentido universal (uma forma de subjetivação), mas em seu sentido particular (uma pessoa).
+
+O sujeito lacaniano não deixa de ser o sujeito cartesiano, no sentido de ter uma “certeza inaugural” (Lacan, S11, p. 45). É o Real do nome próprio, a verdade dissimétrica da falsidade (Miller, 2012). É daquilo que é impossível duvidar. Todos esses conceitos envolvem certa paradoxalidade, o que os libera de exigir coerência em seu funcionamento. Conceitos de Schrödinger que, coincidentemente, quando colapsamos sua função de onda, sempre acabam em presença, nunca em ausência. O Real é ausente apenas no sentido de ser irrepresentável. De resto, é o contrário da ausência: a presença total de uma lei da qual é impossível se esquivar.
+
+> umbigo dos sonhos, escreve ele para lhe designar, em último termo, o centro incógnito – que não é mesmo outra coisa, como o próprio umbigo anatômico que o representa, senão essa hiância de que falamos. (Lacan, S11, p. 28).
+
+A imagem do umbigo não é fortuita; é sobre o ponto de origem. Ele representa a lacuna no Real. Lacan recusa a metalinguagem mas permanece em um registro de correspondência com a realidade – uma realidade original, inalcançável pela palavra.
+
+### Dando explicações melhores
+
+Lacan diz que a direção do inconsciente é a direção oposta da ciência.[^5][^6] Imagino que isso se trate de como a ciência é sobre duvida, e não sobre certezas. Descartes, é claro, é o mestre da dúvida. Acontece que ele depende de uma certeza universal pra basear essas dúvidas: a existência de Deus. Da mesma forma, Lacan depende da existência do Real.
+
+>Há mais realidade, não é, nesta mensagem, do que no ruído pelo qual o pai também identifica a estranha realidade do que se passa na peça vizinha. Não será que nessas palavras passa a realidade faltosa que causou a morte da criança? O próprio Freud não nos diz que, nesta frase, é preciso reconhecer o que perpetua para o pai essas palavras para nunca mais separadas do filho morto que lhe terão sido ditas, talvez, supõe Freud, por causa da febre – mas, quem sabe, talvez que essas palavras perpetuem o remorso do pai, de que aquele que ele colocou perto da cama de seu filho a ser velado, o velhote, não estaria talvez à altura de bem desempenhar sua tarefa… (Lacan, S11, p. 59)
+
+Mais do que a realidade freudiana de que essa frase foi dita em algum momento a respeito de uma febre, Lacan postula a Realidade da culpa. Para além da realidade, o Real, o encontro entre a verdade do sonho e o superficial da realidade. O quarto queimando é um detalhe na existência maciça da culpa paterna. É assim que o sonho, a realidade psíquica, é mais importante: ela diz de um Real, de uma verdade, que é o desejo.
+
+> O real, é para além do sonho que temos que procurá-lo – no que o sonho revestiu, envelopou, nos escondeu, por trás da falta de representação, da qual lá só existe um lugar-tenente. Lá está o real que comanda, mais do que qualquer outra coisa, nossas atividades, e é a psicanálise que o designa para nós. (Lacan, S11, p. 60)
+
+Que seja um Real de uma interpretação baseado em um texto, em si baseado em um relato de um sonho… parece que a Verdade dessa culpa inconsciente que Lacan atribui ao sonhador não se desgasta ao ser transcrita e retranscrita. É o núcleo duro do real alcançado pela psicanálise, que não é um idealismo, nem um platonismo, nem transcendental, nem empírica... é um Realismo, um “discurso absolutamente novo” (Lacan, S11) que a psicanálise desmascara, uma Verdade que foi perdida e recuperada.
+
+> a verdadeira fórmula do ateísmo não é que Deus está morto – mesmo fundando a origem da função do pai em seu assassínio, Freud protege o pai – a verdadeira fórmula do ateísmo é que Deus é inconsciente. (Lacan, S11, p. 59)
+
+Que ele entenda isso como uma fórmula do ateísmo e um avanço em relação ao teísmo freudiano, para mim, é inexplicável. Da mesma forma, quando ele fala do fort-da (Lacan, S11, p. 62), discorda de Freud ao dizer que a bola não é uma representação da mãe, mas de um pedaço do sujeito, o objeto a. Ele discorda na medida em que a interpretação foi mal feita, mas não da necessidade de se interpretar. Ele encontra explicações alternativas, o que é bem diferente de não tentar explicar.
+
+Por outro lado, eu não consigo imaginar explicação melhor para esse sonho (do “pai, não vês que estou queimando?”). Parece um absurdo afirmar que o sonho é arbitrário, dado o peso simbólico que ele carrega. Simplesmente, esse modelo hermenêutico pode ser útil aqui, mas ele foi estendido de tal forma pelo lacanismo que chegou a seus limites. Muito do que se faz é baseado nesse Real mais que real do sonho, nessa verdade tão potente que nos cega,[^7] nessa produção do analista que é a postulação de um conteúdo interno no outro – do qual ele mesmo desconhece, e que a sua recusa é uma prova de sua existência. 
+
+Essa pedra da impossibilidade de falseamento, a psicanálise sempre carregou; e agora ela colhe os frutos. É claro, se a verdade é uma verdade anterior à predicação verdadeiro-falso, sequer procede tentar falseá-la. Ela sempre será verdadeira por definição. É a própria “verdade dissimétrica da falsidade”; sequer cabe perguntar se ela é falsa ou não, sendo sua manifestação simplesmente Real.
+
+Uma coisa é falar esse tipo de coisa a título de interpretação em análise, como um ato. O ato não corresponde a nenhuma verdade, apenas à produção de efeitos – uma ferramenta. Mas enunciá-lo como interpretação de texto, parece a análise freudiana do pássaro-pênis em um sonho mal-contado da infância de da Vinci, dependendo de uma suposição de que ele entendia de simbologia egípcia.
+
+Como interpretação de texto, independente do quão convincente uma interpretação seja, ela não deixa de ser uma afirmação impossível de ser verificada e que orienta uma prática baseada em interpretações cada vez mais extravagantes, que é o que vemos com os lacanianos.
+
+### Realismo platônico
+
+Miller, enquanto herdeiro da realeza psicanalítica (ou, alternativamente, “representante de Lacan na terra”), pode nos elucidar algumas coisas. Ele diz que Freud abandona a verificação e que a correspondência é algo da antiguidade (Miller, 2012). Ele parece se comprometer com a onipresença da linguagem, da mesma forma que Freud se compromete com a realidade psíquica, para além da realidade física.
+
+No entanto, ele não fala de realidade. Em vez disso, Miller fala em verdade. Sobre “a verdade freudiana”, “a verdade interna ao próprio ato de falar”, ele afirma:
+
+> existe uma verdade que se opõe à mentira, mas há ainda outra verdade, além da que se opõe à mentira. É uma verdade que ultrapassa, que funda as duas e que está ligada ao simples fato de formular um enunciado, já que não há como dizer, seja lá o que for, sem postulá-lo como verdade. Até mesmo quando eu digo “eu minto”, eu afirmo: “é verdade que eu minto.” (Miller, 2012, p. 24)
+
+Ele não se presta a falar sobre a existência da realidade, mas há uma verdade anterior, que existe antes da formulação da dialética entre mentira e verdade, que ele chama de “verdade dissimétrica da falsidade”. A característica da verdade/falsidade de um enunciado seria posterior, incidental.
+
+Ele o explica com a negativa freudiana: quando um paciente introduz a mãe em seu discurso, pouco importa se ele diz que é ou não é ela; ela foi colocada lá. É o real do discurso. É a verdade; não cabe colocá-la em jogo em contraste com a falsidade, porque sua existência corresponde à materialidade do discurso. 
+
+O comparecer da mãe do discurso é pré-ontológico. Verdade/falsidade é uma categorização, uma predicação; em contraste, o Real aborda a existência da verdade, mais-que-ontologia. Não como uma categoria de um enunciado, mas como fonte da Verdade. Assim, a orientação de Miller, tal como a de Lacan, é fundamentalmente realista. Tal como Platão, ambos são realistas platônicos:
+
+> O realismo platônico é a posição filosófica de que objetos universais ou abstratos existem objetivamente e fora das mentes humanas. É nomeado após o filósofo grego Platão que aplicou o realismo a tais universais, que ele considerava formas ideais. Essa postura é ambiguamente também chamada de idealismo platônico... ([Wikipedia][2])
+
+Que realismo platônico e idealismo platônico sejam a mesma coisa é só a cereja do bolo. É nessa confusão infindável que se afirma que a teoria lacaniana vai na direção oposta da ciência. Ciência que abstrai os fenômenos em teorias, que atribui sentido a um real sem lei, que utiliza ficções sanitárias em vez do desejo singular (Cordeiro, 2017). Ao mesmo tempo, Lacan utilizaria os nós matemáticos para justificar a materialidade do inconsciente (Cordeiro, 2017). A esse ponto, idealismo e materialismo, idealismo e realismo, materialismo e abstração se confundem no mesmo fenômeno Real que só pode ser vivido na experiência analítica.
+
+## Natureza, substância, religião
+
+### A lei sexual do inconsciente
+
+A psicanálise, em sua subversão total, explode todas as estruturas preexistentes para falar daquilo que realmente importa: o irrepresentável da singularidade do desejo, que só o analista – após sua iniciação – consegue inscrever. Inscrever, porque é necessária uma palavra que se refira ao processo anterior à compreensão[^8], à experiência[^9], à sensação[^10]. O puro vivido pré-ontológico do Real.
+
+> O inconsciente é o próprio real […] o sem sentido por onde o real se apresenta sem lei. (Cordeiro, 2017)
+
+> ...é pelo fato de ser sem lei que o real garantirá a subsistência da psicanálise na civilização... (Cordeiro, 2017)
+
+> Materialidade não afinada às leis do discurso científico, mas ao real sem lei da experiência analítica, atributo do inconsciente no último ensino de Lacan. (Cordeiro, 2017)
+
+Este artigo reitera, várias vezes, o caráter “sem lei” do real.
+
+> Como nos argumenta Miller (2012b), trata-se de um marco de oposição entre o real da ciência que contém um saber e o real da psicanálise que veicula a ausência de uma lei, a lei sexual que não pode ser representada, dado o caráter traumático do sexual que não se permite inscrever no psiquismo. (Cordeiro, 2017)
+
+O real “sem lei” refere-se ao fato de que a psicanálise não lida com saber, mas com um real que “veicula a ausência de uma lei”. Isso significa que não há lei? Claro que não. Há uma absoluta “lei sexual que não pode ser representada”. A ausência é no sentido de que não pode ser conhecida, não que não exista. É a presença de uma ausência; é o Real.
+
+Esse tipo de jogo linguístico (“presença de ausência”) não é trivial. Ela produz a sensação de que não há lei quando, na verdade, se refere a uma lei que não pode ser representada. Essa lei consiste em uma presença maciça, como a luz cegante do Sol (Lacan, S11, p. 61).
+
+É devido a esse tipo de brincadeira que chegamos nessa afirmação:
+
+Decorre dessa impossibilidade de representação o que Miller (2012b) afirma sobre a análise, na qual o inconsciente atesta o real sem saber. Se a ciência se esforça por tratar o real pela via dos signos matemáticos, o real na experiência analítica é um real sem matema, que foge a todo discurso. Para transmiti-lo, Lacan em seu último ensino se serviu dos nós borromeanos, com os quais conferiu um caráter de materialidade ao inconsciente. Materialidade não afinada às leis do discurso científico, mas ao real sem lei da experiência analítica, atributo do inconsciente no último ensino de Lacan. (Cordeiro, 2017)
+
+Isso faz algum sentido? A matemática é incapaz de acessar o Real, mas a materialidade é garantida por meio de uma referência a objetos matemáticos?
+
+Alguns autores pelo menos tem a decência de dizer que Lacan enlouqueceu no final da vida e que sua matemática não tem nada a contribuir. Aqui, por outro lado, somos axiomaticamente contra a ciência e a matemática: elas substituem o real por abstrações, a verdade pelo saber, o corpo pelas ficções. Tirando, é claro, a matemática lacaniana, que, de alguma forma, se refere ao “real sem lei”. O real é impossível de ser conhecido – exceto pelo psicanalista.
+
+Como vimos, o real não só tem lei, como tem a maior das leis: “a lei sexual que não pode ser representada”, a vitalidade infinita da pulsão freudiana. É assim que a matemática lacaniana pode ser, ao mesmo tempo, ideal e material. Material, aqui, tem simplesmente a função de indicar aquilo que é verdadeiro, justo, bom; só serve para afirmar que, apesar de abstrata, ela é importante.
+
+Analogamente, essa história de “ausência de lei” é uma prestidigitação retórica. Ela tem a função de tornar comensurável a existência de uma lei absoluta. Ela faz isso de forma a não ativar a intuição de que há algo errado em afirmar absolutos. 
+
+Isso não é a mera denúncia de um estilo. Esse fato é absolutamente essencial para a maneira com que o discurso psicanalítico funciona.
+
+> Seria preciso que justificassem teoricamente este exorbitante privilégio que atribuem à psicanálise, de ser a única prática social a não cair sob o golpe do princípio elementar válido para toda crítica das ideologias. Mas eles nem ligam: até o momento, o que substitui tal demonstração é a ilusão idealista da completa extraterritorialidade da prática analítica. (Castel, 1978, p. 57)
+
+Esse discurso funciona porque é baseado no excepcionalismo psicanalítico: a eterna identificação com o underdog, mesmo que seja necessário esse nível de emaranhamento teórico para que isso aconteça. Qualquer afirmação é tomada como verdade desde confirme que a psicanálise é subversiva; pouco importa que essas afirmações sejam conflitantes entre si. Seguir o “princípio da não-contradição” é coisa da ciência, afinal, e aqui nós somos a favor do sujeito.
+
+Esse é, inclusive, um dos grandes pontos que orientam a cruzada milleriana contra a ciência (Santos, Santiago & Martello, 2012). Criticam a ciência por tentar ser verdadeiramente absoluta; ao mesmo tempo, afirmam que ela é incapaz de ver aquilo que é absolutamente verdadeiro.
+
+Reencontramos, com isso, o problema da onipresença da linguagem. Essa incoerência precisa ser sintetizada: ou se aceita a pretensão de um discurso (inclusive a ciência) de se dizer correspondente com a realidade, ou se aceita a incapacidade de um discurso (inclusive a psicanálise) de “tocar o Real”.
+
+O que não pode proceder é esse “dois pesos, duas medidas” que é feito em função da defesa da existência e da dignidade da psicanálise. A história da filosofia (Rorty, 1991) nos indica que colocar o seu discurso como “mais próprio” que todos os outros, te leva, inevitavelmente, a esse ponto. Talvez, se a psicanálise fosse, de fato, esse “novo discurso” que pretende ser, ela conseguiria superar essa dinâmica. No entanto, não vejo motivo algum para esperar um resultado diferente ao se fazer a mesma coisa.
+
+Afirmar a “impossibilidade da relação sexual” não te protege dessa ambição universal. Muito pelo contrário; algo que se pode afirmar de todos os pensadores da diferença (Nietszche, Wittgenstein, Heidegger, Deleuze, Derrida, Rorty, etc.) é que eles não foram longe o bastante. Bem como o pharmakon que contém o veneno junto do remédio, toda obra que preconiza a diferença acaba propondo um fundamento absoluto.
+
+> Guattari e eu partimos da ideia de que o desejo só poderia ser compreendido a partir da categoria de “produção”. Isto é, era preciso introduzir a produção no próprio desejo. O desejo não depende de uma falta, desejar não é ter falta de alguma coisa, o desejo não remete a Lei alguma, ele produz. É, portanto, o contrário de um teatro. […] Tudo isso, em outros termos, significa talvez que o desejo seja revolucionário. O que não significa que ele queira a revolução. Melhor que isso, ele e revolucionário por natureza porque constrói máquinas que, inserindo-se no campo social, são capazes de fazer saltar algo, de deslocar o tecido social. A psicanálise tradicional, ao contrário, transformou tudo numa espécie de teatro. (Deleuze, 2005, p. 154)
+
+Deleuze e Guattari, por exemplo, afirmam que não é questão de “representações”, do que as coisas “querem dizer”, mas do que as coisas fazem, como elas funcionam. O que não o impede de se referir ao “funcionamento real” das coisas e à “natureza revolucionária do desejo”. Não é o real milleriano, certamente, mas toma o mesmo estatuto de referência dos fenômenos em si. Para além das “representações”, das ideologias (seja da ciência, seja da psicanálise), é o jeito como as coisas realmente são, a verdade mais-que-falseável.
+
+## Ontologia e substância
+
+Quem inventa de inserir a ontologia na psicanálise? Segundo as anedotas relatadas por Goldenberg (n. d.), Lacan joga pra Miller e Miller joga pra Lacan. Nenhum quer se responsabilizar.
+
+> A lacuna do inconsciente pode ser considerada pré-ontológica. Enfatizei essa característica muitas vezes esquecida – esquecida de uma maneira que não deixa de ter significado – da primeira emergência do inconsciente, a saber, que ele não se presta à ontologia. (Lacan, S11, p. 29)
+
+Da mesma forma que quem argumenta não fazer filosofia é filósofo, quem fala em pré-ontologia fala em ontológico. É uma armadilha filosófica. Toda subversão da ontologia cria uma ontologia anterior. Superar as antinomias produz apenas – eternamente, fractalmente – mais antinomias, com os elementos anteriores de um lado e a sua “solução” do outro. Assim, Lacan fracassa em sua tentativa de se livrar da ontologia ao falar de hontologie (Eideleztein, 2017, p. 357).
+
+Alguns autores (Dunker, 2007; Safatle, 2007) tentam abordar isso chamando de ontologia negativa. Creio que se há alguma salvação pra essa história, será por aí. Algo tem que ser colocado nesse lugar, então se coloca algo impróprio, que questiona a própria ontologia ao mesmo tempo que satisfaz seus requerimentos. E segue o baile, porque tem coisas mais importantes a serem resolvidas. 
+
+> Ora, se essa descontinuidade tem esse caráter absoluto, inaugural, no caminho da descoberta de Freud, será que devemos colocá-la – como foi em seguida a tendência dos analistas – sobre o fundo de urna totalidade? Será que o um é anterior à descontinuidade? Penso que não... (Lacan, S11, p. 30)
+
+O comparecimento de qualquer ontologia que não seja negativa tem efeitos problemáticos[^11]. Há uma linha (Eidelsztein, 2017; Goldenberg, 2018) que afirma que a obra lacaniana adere a uma perspectiva desonstruída e que a metafísica e a ontologia estão do lado de fora. Aqui, o realismo teria vindo dos lacanianos, que distorceram o ensino de Lacan. Enquanto ele defendia o inconsciente ético, Miller defendeu o inconsciente ôntico, fugindo do idealismo e acabando em “um materialismo empírico e uma fenomenologia intuitiva” (Goldenberg, n. d., p. 17).
+
+Como já ficou claro, atribuo pouco valor à palavra de Lacan. Minha experiência me indica que para cada afirmação categórica que ele fez, é possível encontrar uma afirmação dizendo o oposto. Ainda assim,
+
+> uma pulsação que considero mais radical do que a inserção no significante que sem dúvida a motiva, mas não lhe é primária no nível da essência (Lacan, S11, p. 135)
+
+> Não estou designando o substrato vivo necessitado por esse fenômeno do sujeito, nem qualquer tipo de substância, nem nenhum ser que possua conhecimento em seu pathos... (Lacan, S11, p. 126)
+
+> A libido é a presença efetiva, como tal, do desejo. É o que resta agora para indicar o desejo – que não é substância, mas que está lá no nível do processo primário... (Lacan, S11, p. 153)
+
+> evacuando-a [a voz] de qualquer substância que possa haver no barulho que ela faz, [...] a voz é livre, livre para ser tudo menos substância. (Lacan, 3A)
+
+> “Penso… logo isso goza” descarta o habitual “logo” que diz a si “existo” (Lacan, 3A)
+
+> Todo mundo sabe que me orgulhava da dialética e que costumava usar esse termo antes de chegar a esse turbilhão. Podemos agora apreciar que quem fala de dialética está sempre evocando uma substância. A dialética é essencialmente predicativa, cria antinomias, e não há predicado que não seja ele próprio sustentado por uma substância. É muito, muito difícil falar a-substantivamente, especialmente porque imaginamos que cada um de nós é uma substância. (Lacan, RR)
+
+Me parece impossível de ignorar a sua intenção. Fica claro que o objetivo dele é abrir mão da substância, que a voz esteja livre da substância, que o “sou” não decorra do “eu penso”, mas que “isso goza”. Nos imaginamos enquanto substanciais, mas podemos pensar diferente.
+
+> Quanto ao real, é claro que procuro fazê-lo operar a partir desta simples constatação de que defini-lo como universo é impô-lo como cíclico, como circular; é torná-lo abrangente em relação a esse corpo que o habita; é torná-lo o mundo. Introduzir o Uno no real – eis o que é a noção de universo. Ora, não estou convencido de que o real constitua um mundo. (Lacan, RR)
+
+Lacan afirma categoricamente que o real não é o mundo. Isso não impede que a noção de Real como realidade derradeira seja fundamental para o seu pensamento. Ele abre mão deste parâmetro de correspondência que é o mundo, que é imaginário, socialmente construído. Em vez disso, há o Real. Não há representação pois ele é inefável, mas ainda assim ele é último, é a fonte dos nós, é o que não muda, que sempre retorna igual.
+
+Não basta ler o que Lacan diz que quer. É preciso avaliar o que foi, de fato, dito e feito. O sentido do texto, para além de sua intenção. Entendo essa, ironicamente, como a lição mais importante da psicanálise: não assumir que alguém sabe do que está falando.
+
+> É quando o Verbo está encarnado que as coisas realmente começam a ir mal. O homem já não é nada feliz, já não se parece em nada com um cachorrinho que abana o rabo ou um macaco simpático que se masturba. Ele não se parece mais com nada. Ele é devastado pela Palavra. (Lacan, TR, p. 74).
+
+Se não ha realidade prediscursiva, o que o leva a insistir que o homem é como um animal doente, retirado da natureza, devastado pela palavra? Se a palavra vem primeiro, que homem é esse que foi afetado?
+
+> "No princípio era o Verbo", não poderia concordar mais. Mas, antes do início, onde estava? Isso é o que é verdadeiramente impenetrável. (Lacan, TR, p. 73)
+
+O psicanalista fala do cachorro e do macaco como seres que não foram tocados pela presença devastadora da palavra. Eles estão em seu campo representando a natureza. A psicanálise, é claro, nada tem a dizer sobre a natureza pré-linguística. Se no começo era o verbo, o que havia antes? Segundo o que sugere Lacan, pelo menos um macaco e um cachorro; possivelmente, um rio aguardando a construção de uma usina.
+
+Uma coisa é o que ele diz: a palavra veio primeiro. Outra é o sentido do texto: a palavra coloniza a natureza. Esta distinção é precisamente onde a onipresença da linguagem vai por água abaixo.
+
+### A religião do sentido
+
+Lacan critica a religião por atribuir sentido ao Real:
+
+> Demorou algum tempo, mas eles [cristãos] de repente perceberam a vantagem [windfall] que a ciência estava trazendo para eles. Alguém vai ter que dar sentido a todas as coisas angustiantes que a ciência vai introduzir. E eles sabem bastante sobre o sentido. Eles podem dar sentido a absolutamente qualquer coisa. (Lacan, TR, p. 64)
+
+Sim, ele afirma o Real vem da ciência[^12]. Deixemos isso de lado. O que importa, no momento, é como ele fala do efeito que seus escritos têm sobre seus leitores, o que aparentemente é diferente do efeito de sentido causado pela religião:
+
+> Deixe-me dizer-lhe algo agora sobre meus Escritos. Eu não os escrevi para que as pessoas os entendessem, eu os escrevi para que as pessoas os lessem. [...] O que tenho notado, porém, é que, mesmo que as pessoas não entendam meus Escritos, estes fazem alguma coisa com as pessoas. Tenho observado isso muitas vezes. As pessoas não entendem nada, isso é perfeitamente verdade, por um tempo, mas os escritos fazem algo com elas. (Lacan, TR, p. 64)
+
+> Se a psicanálise não triunfará sobre a religião é porque a religião é invencível. A psicanálise não triunfará – ela sobreviverá ou não. (Lacan, TR, p. 74)
+
+Lacan parece querer se comprometer com a onipresença da linguagem, mas algo o impede. Ele quer evitar a religião e a sua completude imaginária; eu não duvido que essa foi sua intenção. Mas ele recusa a proteção contra a religião que o entendimento produz. Por meio do entendimento, a transmissão não depende mais de fé.
+
+Ainda assim, a função de seus escritos é de afetar o leitor, e não que ele entenda. Que eles sejam afetados pela leitura, não pela compreensão. É um enunciado notavelmente religioso, até em sua formulação misteriosa.
+
+Que a psicanálise não consiga competir com a religião é uma afirmação ou inocente ou maliciosa. O culto de personalidade que se formou, a maneira com que se “transmite” (pois “não pode ser ensinada”), a adoção de um dialeto próprio, a maneira como todo psicanalista tem algum artefato em sua sala – um quadro com um nó borromeu, um boneco do Freud, etc. Tais fatos, facilmente observáveis por qualquer um da área, bastam como prova de que ela terá sempre seu pequeno triunfo, sua vitória pírrica, da mesma forma que sobreviveram a alquimia, o zoroastrismo e a magia do caos.
+
+> Talvez se torne de fato uma religião – quem sabe, por que não? - mas eu não acho que esse é o meu caminho. […] a psicanalise é um sintoma […] o sintoma é o que há de mais real (Lacan, TR, p. 66)
+
+Que a psicanálise não seja entendida como aquilo que ela é – uma concepção da natureza humana[^13] – colocando-a como algum tipo de discurso absolutamente novo[^14], é assumir um tipo de revolução natural. Ela não é o sistema, ela é o sintoma; a psicanálise está sempre nas margens; não é um curso, é um percurso…
+
+### Tudo o que posso aconselhar é não tentar o impossível
+
+As percepções dos sentidos podem ser e muitas vezes são falsas e enganosas, por mais reais que possam parecer para nós. Onde há compreensão [realization] fora dos sentidos, ela é infalível. Isso é provado não por evidências externas, mas pela conduta e caráter transformados daqueles que sentiram a presença real de Deus em seu interior. […] Confesso que não tenho argumento para convencer pela razão. A fé transcende a razão. Tudo o que posso aconselhar é não tentar o impossível.[^15] (Gandhi, 1931)
+
+Se as intuições têm algum valor – e elas tem que ter, no realismo intuitivo –, todas elas precisam se juntar em algum momento. Para que isso não resulte em uma metalinguagem, Lacan coloca esse ponto no outro lado: elas se juntam, mas na Outra Cena. Elas são comensuráveis, mas do lado de lá, no além.
+
+O que isso significa, varia para os lacanianos. Pode ser o número (que não representa nada além de si mesmo), a sensação (experiência inominável), o corpo (destino derradeiro), a poesia (maior que a soma de suas partes). 
+
+O Real, no geral, é entendido como a vivência humana inefável. A incapacidade de descrever um sentimento basta como prova da existência de uma lei que é “indisponível”, apesar de regular todos os fenômenos humanos. É uma intuição da existência, conforme a própria definição de realismo intuitivo.
+
+Conforme diz Dennett (apud Rorty, 1982): “acredito que a pergunta sobre se as coisas que saem da espaçonave são conscientes deve ter uma resposta”. Da mesma forma, uma intuição, um sentimento, deve corresponder a algo. Ela é verdadeira porque ela existe. A verdade milleriana se importa exclusivamente com as coisas que existem; não é um predicado que se atribui (se algo é verdadeiro ou falso). É o objeto em si. São as coisas que existem.
+
+> Como em Freud, não importa como algo aconteceu, mas o fato que aconteceu. Procurar se houve de fato um evento no passado é tentar atestar a verdade ou falsidade de algo; esse algo já existe enquanto enunciado. Não se trata de correspondência, exatamente, porque isso seria uma abstração, e portanto “algum tipo de diminuição da realidade, e eu acho que é a própria realidade” (Lacan, 1970, p. 208).
+
+O Real sai do campo epistemológico para o campo ontológico. A verdade-falsidade é relativa ao conhecimento; a verdade dissimétrica da falsidade é relativa à existência. Pode-se afirmar a existência de algo baseado em uma enunciação. A Verdade milleriana-lacaniana-freudiana corresponde ao Real, na medida em que o Real Existe. Assim se articulam Real, Verdade e Realidade.
+
+Em outras palavras, é um acesso intuitivo à realidade, da maneira mais senso-comum e  aristotélica possível – a sensação como acesso imediato ao mundo (Granger, 1994, p. 24). O Real se torna a realidade, e ser psicanalista é ser treinado a ver a realidade. Ver a realidade é pescar o conteúdo latente, para além do manifesto. É retirar os óculos da ideologia.
+
+Que a ciência forclua tal verdade-realidade (Beer, 2017) significa apenas que ela recorre uma validação em comunidade, em vez de aceitar a intuição do cientista. A forclusão do sujeito pela ciência não é nada mais que a tentativa científica de buscar um conhecimento que se aplique para além da singularidade (Costa-Moura & Silva, 2012). Dizem que isso é tentar o impossível, porque o real não pode ser conhecido. A ciência tenta suprimir a subjetividade do observador, o que para o realista intuitivo é inaceitável. A intuição simplesmente deve corresponder a algo.
+
+A verdade-realidade lacaniana resolve o problema da correspondência afirmando, simplesmente, que não se trata de correspondência, pois temos acesso direto ao Real – ele não pode ser conhecido, mas pode ser vivido. 
+
+Essa passagem de Platão (representação da essência) para Aristóteles (acesso direto) não convence o pragmatista, que não confia nas próprias intuições. Para ele, esse Realismo permanece no plano da correspondência, agora entre uma intuição (a Verdade, a apreensão do Real por meio da sensação) e a realidade (o Real). Correspondência que nos é indicada por Lacan:
+
+> Devemos poder nos acostumar ao real. O sintoma não é verdadeiramente o real. É a manifestação do real em nosso nível de seres vivos. (Lacan, TR, p. 77).
+
+> Não é uma analogia. Está realmente em alguma parte das realidades, esse tipo de toro. Esse toro realmente existe e é exatamente a estrutura do neurótico. Não é um analogon; não é nem mesmo uma abstração, porque uma abstração é algum tipo de diminuição da realidade, e eu acho que é a própria realidade. (Lacan, 1970, p. 208)
+
+### Amarrando a realidade
+
+Não tem como escapar da noção de realidade; todo o raciocínio (ou mesmo a falta dele, o nonsense, etc.) depende dela. Não é sobre uma realidade externa, mas sobre um real subjacente. Ele é fragmentário mas ele determina aquilo que realmente importa. O real lacaniano configura um realismo.
+
+Lacan não admitiria que é um realismo, porque ele recusa a realidade externa como fonte de correspondência. Muito menos um transcendentalismo, porque lida com a materialidade do discurso. Ainda assim, eu diria que se trata de um realismo transcendental. Ele atribui valor de verdade a um Real inacessível, ao mesmo tempo que necessita do conceito de realidade para funcionar.
+
+O que é então a análise, afinal? É essa coisa que pode ser caracterizada da seguinte forma: é quando nos permitimos uma espécie de irrupção do privado no público. ‘O privado’ evoca a parede que protege as coisas pessoais de todos. As coisas pessoais de todos têm um núcleo perfeitamente característico, que consiste em coisas sexuais. Esse é o núcleo do privado. (Lacan, RR)
+
+A grande observação é de que as pessoas tem núcleos que são impossíveis de serem transformados. Não é nada particularmente revolucionário. É, de certa forma, uma afirmação banal. É o que herdam os millerianos, com o Real, o corpo e o gozo.
+
+Há indecidibilidade, mas nossa ideia dela vem apenas dessa garantia, tirada precisamente da matemática, de que não há não-nós, por assim dizer, pois essa é, em suma, a única definição possível do real. Apertando nós, mesmo que seja para não ficar escorregando sem parar – é isso que trabalhamos em análise. (Lacan, RR)
+
+O psicanalista define o campo do jogo – os nós – e diz que o trabalho da análise é amarrar nós. Logo depois, dizem: o problema é que os psicanalistas saem do seu campo de atuação; problema é que tal pessoa não está realmente fazendo psicanálise. Acontece que pra quem tem martelo, tudo é prego. O analista vive em um mundo em que os verbos principais são amarrar e desamarrar.
+
+Lacan (RR) fala da “constante energética” como base da física. Não acho que seja um grande salto supor que ele está se referindo ao princípio de conservação de energia: a quantidade total de energia em um sistema permanece constante; a energia não pode ser criada nem destruída, apenas deslocada.
+
+É um fechamento, uma totalização. Essas constantes, essas leis, seriam “todas”, enquanto o seu real permite leis que mudam (Lacan, TR, p. 81). O Real não forma um todo, ao contrário da lei da conservação de energia; não tem sentido, ao contrário da religião. Ele não determina o perímetro de sua área.
+
+O que torna a constante energética uma lei não é que ela sempre retorna no mesmo lugar? Ela não seria Real? Se o Real não delimita o perímetro da psicanálise, isso só faz com que seu perímetro seja tão grande quanto o universo observável.
+
+Aqui entra a pré-ontologia e a verdade dissimétrica da falsidade: antes da discussão dos predicados dos nós, “há nós”. Sem isso, não há conversa. Essa conversa, portanto, fica circunscrita aos limites da realidade determinada pela existência dos nós. Acontece que como os nós “estão no Real”, tudo é jogo. 
+
+A consequência, todos sabemos: não há nada no qual o psicanalista não possa opinar. Com ela, a psicanálise pode dizer do que existe e pode existir. Nessa orientação, a direção na análise é resignar-se ao Real, que é, segundo ela, aquilo que não muda.
+
+A verdade não é enganadora pois ela é pré-simetria; o real não é enganador pois ele é pré-ontológico; está garantida a justiça de sua certeza, baseada em uma existência autoevidente. É, “retornar a verdade às mãos do Outro; nesse caso, de um deus perfeito” (Lacan, S11, p. 36).
+
+Produz-se uma resignação infinita que é justificável, porque ela é referente ao ser do sujeito, ao ser do mundo. Como o cavaleiro da resignação infinita ([Wikipedia][5]), o sujeito analisado se resigna ao fato de não conseguir realizar seu desejo no mundo material, ao mesmo tempo que tem fé que reencontrará seu objeto de desejo após a morte. Tal resignação não é ideológica, porque é apenas o Real. É como as coisas são.
+
+Não se trata de essência só porque não é transcendental; é resignar-se a algo que aconteceu com você em uma época primitiva. Da mesma forma que, no materialismo dialético, há a “necessidade histórica”, em Lacan há a “necessidade da estrutura matemática”. 
+
+Há um caso especial: a terapia de crianças pequenas, em que pode-se intervir em tal formação desse núcleo. De resto, seja a sexualidade uma essência transcendental natural, seja ela um núcleo material artificial, o resultado é o mesmo: resignação infinita. O que não quer dizer que seja uma má terapia. Mas tem seu escopo limitado por algo que ela assume ser “apenas a realidade” e “impossível de ser modificado”, sem ter nenhum argumento além de “faça e descubra você mesmo”. Dizer que o conceito de Real não produz essa limitação é enganoso. O Real tem, em seu campo, a mesma função da velocidade da luz na física. Ocorre que a velocidade da luz tem a vantagem de, pelo menos, ter alguma validação experimental. Enquanto não construírem o Alcubierre Drive (Wikipedia), a velocidade da luz é, para todos os efeitos, o limite de velocidade do universo. O Real, por outro lado, só existe pra quem acredita nele. Isso não é um argumento realista técnico em favor de uma realidade objetiva; estou apenas delimitando os conceitos em jogo.
+
+Ou o Real é uma constante, “é todo”, e existe para além do observador – tornando o lacanismo uma teoria da realidade –, ou ele é “não-todo” e é um efeito de linguagem, e nada diz da realidade – portanto, incapaz de delimitar o escopo de uma prática, conforme quer Lacan. Sua tentativa é instituir uma impossibilidade lógica: que o Real seja a base da realidade ao mesmo tempo que ele seja “não-todo”.
+
+## A ausência de novas metafóricas
+
+### Nivelamento da transexualidade
+
+O pragmatista sequer entretém a ideia de uma correspondência com a natureza (Rorty, 1979). Essa lógica institui uma eterna disputa pelo trono da “maior correspondência”, o que tende a obstruir a construção de conhecimentos melhores. Talvez o aumento da competitividade nesse “livre mercado das ideias” até aumente a qualidade das ideias boas dentro dele – desde estejam dentro dele. O agente desse mercado é incapaz de imaginar o fim do capitalismo, bem como o direito divino dos reis. Ele é incapaz de imaginar uma alternativa.
+
+Uma consequência disso, para a psicanálise, é sua incapacidade de desenvolver novos vocabulários. Tudo o que acontece de novo deve ser reduzido a Freud, de uma forma ou de outra. Quando mais competente for o psicanalista – quanto mais fiel a Freud – menos ele é capaz de fazer o seu trabalho, que é lidar com o mundo de hoje.
+
+Mesmo a simulação de Lacan, seu “retorno que na verdade é pra frente”, é nivelada pelo quanto ela pode, convincentemente, corresponder a Freud. Assim, da mesma forma que o conhecimento deve corresponder à natureza, tem-se que Lacan deve corresponder a Freud. As metafóricas psicanalíticas se encontram altamente limitadas. Não, como dizem, pelo limite Real da linguagem, mas por uma decisão arbitrária de ancorar em Freud a legitimidade de todos os enunciados.
+
+No momento que Freud funda a metapsicologia, ele nos condena eternamente a nos adequarmos a suas categorias. Isso gerou infindáveis consequências, de filosofias incoerentes a atos estúpidos. É assim que se tira a conclusão de a transexualidade deve ser entendida como perversão (Dor, 1991), como psicose (Santos & Júnior, 2012) ou como uma epidemia de histeria conspirada pela ciência (Jorge & Travassos, 2018). A transexualidade /tem que ser/ alguma coisa, e essa coisa tem que ser comensurável com o que Freud disse 100 anos atrás. Ainda mais no que tange à sexualidade, território natural do psicanalista; todos sabemos que aquilo de mais inovador no tema da sexualidade já estava lá.[^16]
+
+Lacan é apenas o exemplo mais extravagante dessa prática. Em seu célebre seminário 11, redefine os conceitos freudianos que julga fundamentais. É o A Pele que Habito ([IMDB][6]) invertido; quando ele termina seu trabalho com eles, a lógica interna dos conceitos é irreconhecível. Ainda assim, portam a mesma aparência, o que garante seu reconhecimento.
+
+Veja como Santos & Júnior (2012), por exemplo, insistem em falar em “transexualismo”, mesmo demonstrando conhecimento da carga histórica que esse termo carrega. Mas, segundo eles, “o termo transexualismo é utilizado no campo da psicanálise, ainda que não seja para indicar uma patologia” (p. 200). Como foi Lacan que usou o termo, deve estar tudo certo, não?
+
+> [na apresentação de doentes de Lacan em Saint-Anne] também aprendíamos muito sobre a ética e sua prática de analista. Ele nunca tergiversava com a verdade e não permitia que o doente se esquivasse. Insistia nos pontos de real, no que constituía bloqueio. Confrontava o doente com os desmentidos que a realidade opunha às suas construções delirantes. Por exemplo, a um transexual que reivindicava sua condição de mulher, não parou de lembrar durante a entrevista que ele era um homem, quisesse ou não, e que nenhuma operação faria dele uma mulher (Millot apud Jorge & Travassos, 2018, p. 110)
+
+Viva o real!
+
+Ainda bem que possuímos esse brilhante conceito, para nos resguardar dos abusos éticos cometidos pela ciência e pela religião, que atribuem sentidos absolutos para fenômenos singulares. Em vez disso, podemos nos orientar por meio do real do corpo e da verdade inefável. Ufa!
+
+Nossas ferramentas condicionam como nós pensamos (Dijkstra, [EWD340][7]). Utilizar ferramentas ruins é aprender hábitos ruins. Utilizar ferramentas restritas nos condiciona a operar em campos restritos. Isso pode ser até desejável; mas quando [o mundo bate na porta][8], estamos disponíveis para mudar? A história, novamente, parece demonstrar que não.
+
+Uma coisa é entender uma teoria como modelo e estar aberto a aprender outras coisas, estar aberto a contribuições de outras áreas. Outra coisa é fazer parte de uma corporação que te incentiva a ler os mesmos 10 livros e organizar o universo inteiro em função deles.
+
+Tudo é sobre sexo; tirando o sexo, que é sobre poder. Tudo o que existe, deve existir em função do gozo, ou do desejo, ou do sujeito.
+
+### O fascínio do inefável
+
+> Uma de nossas intuições sobre a dor é que estar ou não com dor é um fato bruto, não uma questão de decisão para servir à conveniência do teórico. Eu recomendo não tentar preservar essa intuição, mas se você discordar, qualquer teoria que eu produza, por mais preditiva e elegante que seja, não será, aos seus olhos, uma teoria da dor, mas apenas uma teoria do que eu ilicitamente escolho chamar de dor. Mas se, como afirmei, as intuições que teríamos que honrar se as honrássemos todas não formassem um conjunto consistente, não pode haver uma verdadeira teoria da dor e, portanto, nenhum computador ou robô poderia instanciar a verdadeira teoria da dor, o que teria que fazer para sentir dor real. [...] A incapacidade de um modelo de robô para satisfazer todas as nossas demandas intuitivas pode ser devido não a nenhum mistério irremediável sobre o fenômeno da dor, mas a incoerência irremediável em nosso conceito comum de dor. (Dennett apud Rorty, 1982, p. xxxiv)
+
+Da mesma forma que a dor, a realidade psíquica e a estrutura simbólica são dados intuitivos de realidade. Eles são reais, mas a prova de sua existência é apenas a de que eles não tem como não serem reais. O que não constitui em si uma prova, mas a simples demonstração de um fato que não pode ser ignorado, algo que “não cessa de não se escrever”. É precisamente a posição do realista intuitivo: certas intuições são intransponíveis. Como a metalinguagem está proibida, temos que assumir que a linguagem é incapaz de recobrir o corpo completamente, mesmo que Lacan  afirme que “no começo, era o Verbo” (TR, p. 73).
+
+No realismo intuitivo, parte-se do pressuposto de que a intuição tem que ser respeitada, que há “algo lá”. O que é estranho vindo de um psicanalista, já que a grande inovação[^17] freudiana foi que “o eu não é senhor da própria casa”. O paciente não tem acesso direto a sua própria experiência subjetiva, mas o psicanalista, devido a seu treinamento, tem acesso intuitivo à estrutura da linguagem? Não é óbvio, nesse sistema, que a intuição é contingente e determinada pela inserção simbólica de cada um?
+
+Claro que temos essas intuições. Como poderíamos escapar de tê-las? Fomos educados dentro de uma tradição intelectual construída em torno de tais afirmações – assim como costumávamos ser educados dentro de uma tradição intelectual construída em torno de afirmações como “Se Deus não existe, tudo é permitido”, “A dignidade do homem consiste em sua ligação com uma ordem sobrenatural” e “Não se deve zombar das coisas sagradas”. É uma petição de princípio do realista dizer que devemos encontrar uma visão filosófica que “capture” tais intuições. O pragmatista está pedindo que façamos o nosso melhor para parar de ter tais intuições, que desenvolvamos uma nova tradição intelectual. (Rorty, 1982, p. xxix)
+
+A filosofia nos oferece novas imagens para pensar o mundo; nada mais, nada menos. Abordamos um mundo que é, em si, feito de imagens: simulacros percorrendo mapas. É necessário que essas imagens, representações, ilusões, ideologias, etc. não sejam entendidas como reproduções inadequadas da natureza, mas como as únicas ferramentas que temos.
+
+### Resignar-se ao Real
+
+Lacan, como Deleuze, nunca deixou de ser ingênuo[^18], no sentido de confiar em uma Filosofia. Os filósofos que se admitem realistas são os que pretendem que a “intuição” seja a ferramenta que os levará ao progresso (Rorty, 1982, p. xxxviii), ou seja, em que a filosofia deixará de lidar com “verdade como bom de acreditar” para “Verdade como correspondência a realidade”.
+
+Em psicanálise é difícil ver isso. Os partidários da intuição não estão do lado do progresso, mas do “carrossel literário-histórico-antropológico-político” que o realista pretende superar.
+
+Mas Lacan é uma exceção. Ele era abrasivamente continental, mas não se contentava em ficar girando eternamente, criticando a metafísica da presença. Ele estava interessado em ciência e o que isso significava. Ele herda de Freud sua pretensão de ser um grande homem. Ele construiu uma teoria da realidade, uma Weltanschauung, uma escola e um culto de personalidade. E tem sua queda poética ao se dedicar aos conjuntos, matemas e nós, que não mentem, que transmitem integralmente, que moram no Real. Esses não são traços de uma onipresença da linguagem, mas da onipresença da realidade.
+
+Assim como Freud pensou que poderíamos ser capazes de substituir a miséria neurótica pela infelicidade humana comum, percebendo que nossa luta com essas figuras de fantasia infantil é interminável, também podemos substituir o autoengano pelo infindável trabalho de desconstrução, percebendo que nunca haverá ser um último discurso filosófico. (Rorty, 1991, p. 107)
+
+Toda visão de mundo é uma resignação a alguma coisa. Agora que a resignação a Deus saiu de moda, nos submetemos à lógica, à empiria, à vivência, às evidências, etc. Lacan e Miller, notavelmente, nos propõem a nos acostumarmos com o Real.
+
+Rorty nos propõe a resignação ao fato de que não há um último discurso. Dito assim, até parece com o real lacaniano. No entanto, eles diferem em pontos centrais: em um, o real é função da estrutura e portanto podemos confiar nele; no outro, não podemos confiar em nada, e precisamos viver mesmo assim.
+
+A proposta pragmatista é de resignar-se ao real como falta. Isso é diferente de Lacan, que nos propõe a teologia negativa de que o Real, por ser faltante, é a fonte da verdade. Não é apenas uma falta qualquer, mas é o objeto de desejo da humanidade. Ele entende isso como estrutural e impossível de ser alterado.
+
+Se a psicanálise foi desenhada em cima da neurose de Freud, essa é a doença de Lacan: assumir que o fascínio pelo inefável é um tipo de evidência de verdade. Ele afirma que os seus limites são os limites universais da humanidade.
+
+> Os profetas que afirmam ter um relacionamento pessoal e quase-filial com Deus nos dizem que ele é tão inescapável para nós quanto para eles. Mas, sugeriu Freud, esses profetas podem simplesmente estar tentando desculpar suas próprias dificuldades idiossincráticas, tomando-as como universais: imaginando que seus próprios pais cansativos e embaraçosos também são os pais de todos os outros. (Rorty, 1991, p. 108)
+
+O inefável não é o limite do mundo. É o limite de Lacan. Precisamos superá-lo.
+
+Isso toma a mesma forma do que costuma ser dito da pulsão: é impossível chegar à excitação zero; fazê-lo seria morrer.[^19] Me pergunto de onde tiraram isso, se eles já viram alguém morrendo de desvitalização.
+
+O objeto causa de desejo funciona da mesma forma. Ele causa o desejo, e o desejo não pode morrer, porque ele é o destino do ser humano. Assim, o objeto causa de desejo é postulado como eterno.
+
+Rorty vê isso como mais um discurso sobre a verdade. Pode até ser um bom discurso, na medida que produza uma alta eficácia psicoterápica. Mas, sob uma perspectiva pragmatista, ele só pode ser “verdadeiramente bom” na medida que admite ser superado por discursos melhores. Para mim, esse encadeamento topologia-estrutura-real-verdade se esgotou, e se faz necessário um discurso mais operativo.
+
+O problema da resignação ao Real é entendê-la como um momento em que se encontrou o último vocabulário. A estrutura não pode ser tomada como metalinguagem. Sim, sempre encontramos Hegel nos esperando pacientemente no fim do túnel. Desde entendamos Hegel como “a dialética da eterna contraposição entre discursos que são incapazes de se provar como melhores ou piores que os outros discursos”. O que isso não pode significar é “o real como espírito absoluto da metanarrativa especulativa”, que é o que se costuma fazer com Lacan.
+
+O impossível não é estruturalmente fascinante. Freud falou do fascínio com aquilo que há do outro lado da porta. Lacan falou que atravessando a cortina, não há nada atrás. Mas ele também afirma que nosso destino é ficar eternamente abrindo a porta da geladeira para ver que há algo lá dentro, mesmo quando sabemos que não tem nada lá. A Lacan, falta imaginação. Eu imagino um mundo em que, vendo a geladeira vazia, você se vira com o que tem no armário. Desconstruir Lacan é levá-lo às últimas consequências: o real como impossível, e não como fascinante.
+
+Estas são imagens poderosas, mas não universalmente convincentes. O poder deles sobre mim, imagino, vem do modo como os adquiri, do modo como se entrelaçaram e, eventualmente, simbolizaram minhas próprias esperanças e medos idiossincráticos. (Rorty, 1991, p. 108)
+
+A única diferença entre imagem e estrutura é que a estrutura é uma imagem inquestionável.
+
+### A morte do desejo
+
+Lacan se encontra do lado do realismo intuitivo porque ele assume que há um Real inefável, inalcançável pela linguagem, apesar de ser alcançável por alguma intuição-afeto-sensação-experiência-vivência. Nesse sentido, a afirmação de Eidelsztein de que as incoerências dos lacanianos existem em função de integrar Lacan a Freud não está errada, mas é pouco precisa. A tomada do Real como vital e corporal é uma inovação milleriana; o real tomado como realidade e o inefável como limite universal da experiência humana está em Lacan.
+
+Em nenhum momento, na psicanálise lacaniana, até hoje, se colocou a questão de utilizar uma rede de conceitos que não dependa desse limite absoluto do real; assume-se que esses impasses são constitutivos da estrutura-linguagem-realidade.
+
+O apelo à posição realista intuitiva a fim de encontrar uma metalinguagem seria apenas o retorno da palavra divina. O realismo intuitivo próprio de Lacan, sua devoção ao inefável, é diferente. Ele constrói um simulacro divino por meio do significante transcendental. Tal significante despótico se manifesta em diversas roupagens: estrutura, linguagem, simbólico, Real, etc.
+
+“A linguagem que não alcança o transcendental”, “a linguagem que não alcança a realidade” e a “linguagem que não alcança o Real” estão, todos, submetidos à lógica da correspondência, que foi sistematicamente questionada pela filosofia do século XX. Ambos Lacan e Miller entram em diálogo explícito com essas filosofias e argumentam que estão instaurando uma nova forma de discurso, que não sofre com as incoerências dos discursos anteriores. Como ficou claro, eles não me convencem.
+
+Os lacanianos param de procurar uma linguagem que corresponde, dizendo que devemos nos resignar ao fato de não haver nenhuma (“lidar com a castração”). Com isso, se abre a possibilidade de acessar esse “além da linguagem” por meio da intuição, dos afetos, daquilo que bordeja o Real, etc. O real do corpo, por ter afinidade a seu elemento, pode tocá-lo.
+
+Lacan, por sua vez, parecia ter uma visão que se baseava na necessidade da estrutura matemática como argumento à intransponibilidade do Real. Há quem siga essa linha, como é o caso de Eidelsztein. Acredito que, apesar de mais rigorosa, essa posição só troca seis por meia dúzia. A topologia como acesso à realidade Real é apenas outro lado da moeda do realismo intuitivo, tomando a matemática como metalinguagem, ou, pelo menos, como justificadora da inacessibilidade do Real.
+
+A minha perspectiva é a seguinte: não há nada de mágico na linguagem, como não há nada de mágico no Real. O Real faz parte da linguagem. As pessoas são animais, e a linguagem é um instrumento que elas desenvolveram pra lidar com seu ambiente (Rorty, 1982, p. xviii).
+
+Essa perspectiva não é novidade, mas ela foi sistematicamente recusada em favor de um transcendental que explique o empírico, seja ele a pulsão freudiana, a estrutura lacaniana ou a verdade milleriana. A psicanálise pode enfaticamente recusar o “positivismo”, mas com isso ela inadvertidamente se torna platônica. Um platonismo que se preocupa em definir o que é verdadeiro e o que é falso, o que é justo e injusto, o que é bom e ruim, o que é saúde e o que é doença. Com isso, ele define normas. Que seja uma teoria explicitamente contra a realidade e a justiça, mas que se posicione a favor da verdade, impede que ela alcance a neutralidade que almeja.
+
+> Na visão de James, “verdadeiro” assemelha-se a “bom” ou “racional” por ser uma noção normativa, um elogio prestado a enunciados que parecem estar valendo a pena e que se encaixam com outros enunciados que estão fazendo isso. Pensar que a Verdade está “lá fora” é, na opinião deles, estar de quatro com a visão platônica de que o Bem está “lá fora”. […] Muitos séculos de tentativas de explicar o que é “correspondência” falharam, especialmente quando se trata de explicar como o vocabulário final da física futura será de alguma forma o Próprio da Natureza – aquele que, finalmente, nos permite formular frases que apegue-se ao modo de pensar da própria natureza sobre si mesma. Por essas razões, o pragmatista pensa que, seja o que a filosofia da linguagem fizer, ela nunca chegará a uma definição de “verdadeiro” que vá além de James. (Rorty, 1982, p. xxv)
+
+### Mudando de assunto
+
+Essa concepção de Real transcendental tem uma grande vantagem para a psicoterapia: ela define um ponto imutável. Este ponto fálico ancora todo o trabalho terapêutico, que se resigna em bordejá-lo, sem ter nunca a obrigação de mudá-lo ou mesmo de encostar nele. Porque ele é imutável, estrutural, real, etc.
+
+Esse conceito é corroborado pela clínica, em que (anedotalmente) (reportado por pessoas que acreditam nesse conceito) “é óbvio” que certas coisas não mudam. Eu, inclusive, digo o mesmo. É a minha vivência enquanto clínico.
+
+A questão é se eu confio nas minhas vivências, se eu acredito que minhas intuições têm que ser levadas em consideração. A esse ponto, o debate se torna um “conflito de intuições sobre a importância das intuições” (Rorty, 1982, p. xxxvii), que é uma situação insolúvel. Ou se acredita, ou não se acredita.
+
+Está proibido, então, apelar a argumentos vivenciais na clínica psicanalítica? Rorty não abre mão da intuição, ele simplesmente não vê nenhum motivo em particular pra confiar nela ou, no caso da psicanálise, utilizá-la como critério de legitimação.
+
+ O pragmatista não tem resposta a dar que seja especialmente satisfatória; ele pode apenas afirmar que mudar de assunto é mais interessante. Minha intuição é que isso é uma vantagem, por gerar processos mais auditáveis, e em se comprometer em fazer coisas mais úteis.
+
+> no processo de jogar vocabulários e culturas uns contra os outros, produzimos novas e melhores maneiras de falar e agir – não melhores por referência a um padrão previamente conhecido, mas apenas melhores no sentido de que elas parecem claramente melhores do que seus predecessores (Rorty, 1982, p. xxxvii)
+
+### A pergunta que sempre retorna
+
+> “A questão de saber se tal cultura pós-filosófica é desejável também pode ser colocada como a questão: a onipresença da linguagem pode realmente ser levada a sério?” (Rorty, 1982, p. xxxix)
+
+É possível se especializar em algo sem a crença que aquilo é divino? Se utilizar da psicanálise sem achar que ela é a chave mestra da experiência humana? É necessário dizer que, ao contrário das divergências e das falsas derivações, o movimento a que você, pessoalmente, se filia, é o único que “restaura a verdadeira prática e os verdadeiros fins” (Miller, 2012, p. 15)? 
+
+Para o lacaniano, ironicamente, parece que a resposta é que não. A aparente defesa da onipresença da linguagem é contraposta com o problema da realidade. “A estrutura é a metalinguagem” e “o Real é o inefável” são dois lados da mesma moeda realista.
+
+Rorty, por outro lado, levou arbitrariedade do signo verdadeiramente a sério. Isso significa obliterar qualquer traço da intuição platônica de que há uma verdade superior às outras, bem como a intuição aristotélica de que as sensações bastam para encontrar o mundo.
+
+A filosofia é uma resposta ao desejo. É a resposta de um ego frágil que busca eternamente a parte que falta, a explicação derradeira do mundo, seu nome no livro divino, sua personalidade descrita, um diagnóstico cósmico que descreva o seu Ser.
+
+Em Freud, como um bom realista técnico, isso se justifica pela existência material de uma realidade biológica. Em Lacan… também. É sobre o desamparo original, sobre o filhote de humano nascer prematuro e precisar de cuidado. Ele não sobrevive sozinho. A linguagem seria uma ferramenta de sobrevivência. Da necessidade nasce o desejo. Um desejo que se orienta a objetos, que apontam para o mesmo objeto faltante. Há um momento mítico em que se foi completo, e eternamente se busca esse retorno.
+
+E ainda assim, tem um momento em que essa ferramenta se torna um fato lógico, uma peça no quebra-cabeça do universo. Que o desejo seja essa verdade inescapável significa que a lógica da busca é apenas Verdadeira. Lacan não consegue imaginar o planeta dos despossuídos. Seu trabalho é descrever o nosso planeta hoje, não imaginar um futuro anárquico.
+
+A proposta de Rorty de uma sociedade pós-Filosófica se apresenta como absurda para o psicanalista, porque ele não assume que o desejo é o fator organizador da vida – ou, pelo menos, ele assume uma visão diferente do que é o desejo. Rorty propõe uma desconstrução do desejo, em que ele não se orienta mais ao objeto a, que é vinculado metonimicamente a todos os investimentos humanos imagináveis.
+
+Falei que Lacan não foi frio o bastante; isso não é de todo verdade. Minha proposta aqui não é um comprometimento com a brutalidade do real, como quer o positivista. A cultura pós-Filosófica não aponta para um esfriamento. Ela só não assume que o calor vem do Sol:
+
+> Ainda haveria adoração de heróis em tal cultura [pós-Filosófica], mas não seria adoração de heróis como filhos dos deuses, como distanciados do resto da humanidade pela proximidade com o imortal. Seria apenas a admiração por homens e mulheres excepcionais que eram muito bons em fazer os mais diversos tipos de coisas que faziam. Tais pessoas não seriam aquelas que conheciam um Segredo, que haviam conquistado a Verdade, mas simplesmente pessoas que eram boas em ser humanas. (Rorty, 1982, p. xxxix)
+
+O que Rorty propõe, de alguma forma, é o descarte desse desejo. Dizer que seria a morte do desejo seria dramático demais para a banalidade da operação, que seria simplesmente ignorar essa intuição profunda de que há uma resposta que é melhor que as outras, e que é isso que dá valor à vida humana.
+
+A linguagem não é mágica, ela não faz referência a uma dignidade própria do homem, mas só uma ferramenta da espécie, não muito diferente das garras de um tigre ou o pescoço de uma girafa.
+
+Mas – e isso é óbvio para qualquer um – há vários animais. Cada um adaptado a seu contexto. Muitos deles, nós nunca conheceremos, porque estamos acelerando sua extinção. Não estamos só presos na jaula de nossas experiências, como estamos expandindo-a, transformando o incomensurável para nós em  impossível para todas as espécies. Se estivermos no realismo, não há o que fazer; é apenas nossa natureza humana.
+
+## Referências
+
+Assad, M. M. E. & E. F. Barreto (2012). Nomeação, um savoir-y-faire para além do pai. In T. C. Santos, J. Santiago & A. Martello (Orgs.), De que real se trata na clínica psicanalítica? Psicanálise, ciência & discursos da ciência. (pp. 133-154). Cia de Freud.
+
+Beer, P. (2017). Psicanálise e ciência: um debate necessário. Blucher.
+
+Bogochvol, A. (2014). Do fantasma à verdade mentirosa: o que se ultrapassa em uma psicanálise? In J. Forbes (ed.) & C. Riolfi, (org). Psicanálise: a clínica do Real. (pp. 401-414). Manole.
+
+Cordeiro, E. F. (2017). O real da psicanálise escapa à literalização da ciência. Psicologia.pt
+
+Deleuze, G. (1992). Conversações, 1972-1990. Ed. 34.
+
+Deleuze, G. (2005). A ilha deserta e outros textos. Iluminuras.
+
+Derrida, J. (1972/1991). A farmácia de Platão. Iluminuras.
+
+Dor, J. (1991) Estruturas e Clínica Psicanalítica. Taurus.
+
+Dunker, C. I. L. (2007). Ontologia negativa em psicanálise: entre ética e epistemologia. Discurso, 36, pp. 218-239.
+
+Eidelsztein, A. (2009). El fracaso de Lacan, 1a parte, El rey está desnudo, 2, pp. 97-113. Retirado de https://bit.ly/3xBHCos
+
+Eidelsztein, A. (2010). El fracaso de Lacan, 2da parte, El rey está desnudo, 3. Retirado de https://bit.ly/3vsCXT7
+
+Eidelsztein, A. (2017) Otro Lacan. Letra Viva.
+
+Eidelsztein, A. (2020). A topologia de Lacan não é aplicável a psicanálise tal como a formulou Freud. Retirado de https://bit.ly/3JV2vxD
+
+Forbes, J. (2014). A análise lacaniana hoje: ingredientes, indicações e modos de usar. In J. Forbes (ed.) & C. Riolfi, (org). Psicanálise: a clínica do Real. (pp. 3-20). Manole.
+
+Gandhi, M. (1931). Address at Kingsley Hall. Retirado de https://bit.ly/3M9NhpW
+
+Goldenberg, R. (1995). A empadinha. Retirado de https://bit.ly/3rAbOwA
+
+Goldenberg, R. (2018). Desler Lacan. Instituto Langage.
+
+Goldenberg, R. (n. d.). Crítica ao texto de Miller “Da ontologia à ôntica”. Retirado de https://bit.ly/3vqO5jF
+
+Graña, R. B. (2016). Heidegger ou as Vicissitudes da Destruição. AGE.
+
+Granger, G-G. (1994). A ciência e as ciências. UNESP.
+
+Green, A. (1990). Conferências brasileiras de André Green: metapsicologia dos limites. Imago Editora.
+
+Jorge, M. A. C. & Travassos, N. P. (2018). Transexualidade: o corpo entre o sujeito e a ciência. Zahar.
+
+Lacan, J. (1964/1978). [S11] The Seminar of Jacques Lacan, Book XI: The Four fundamental concepts of psycho-analysis (Ed. J.-A. Miller, Trad A. Sheridan). Norton.
+
+Lacan, J. (1973/2003) [TV] Televisão In J. Lacan, Outros Escritos. Jorge Zahar.
+
+Lacan, J. (1974). [3A] La Troisième/The Third. Retirado de https://bit.ly/3JXhlUe
+
+Lacan, J. (1974/2013). [TR] The Triumph of Religion preceded by Discourse to Catholics. Polity Press.
+
+Lacan, J. (1975). [RR] Religions and the Real: Extract from the closing address of the Journées des cartels de l’École freudienne de Paris. Retirado de https://bit.ly/3rvugX6
+
+Mattos, L. T. L. (2018). Um território sem fronteiras: os casos-limite. Jornal de psicanálise, 51(95), pp. 43-57.
+
+Miller, J.-A. (2012). A psicanálise, seu lugar entre as ciências. In T. C. Santos, J. Santiago & A. Martello (Orgs.), De que real se trata na clínica psicanalítica? Psicanálise, ciência & discursos da ciência. (pp. 13-34). Cia de Freud.
+
+Riolfi, C. (2014a). O que esperar de uma análise levada a bom termo? In J. Forbes (ed.) & C. Riolfi, (org). Psicanálise: a clínica do Real. (pp. 431-442). Manole.
+
+Riolfi, C. (2014b). Palavras, nada mais do que palavras: o que o analista lacaniano faz com o que lhe dizem? In J. Forbes (ed.) & C. 
+
+Riolfi, (org). Psicanálise: a clínica do Real. (pp. 161-176). Manole.
+
+Rorty, R. (1979). Philosophy and the Mirror of Nature. Princeton. 
+
+Rorty, R. (1982). Consequences of Pragmatism (Essays: 1972-1980). University of Minnesota Press.
+
+Rorty, R. (1991). Essays on Heidegger and others: Philosophical Papers Volume 2. Cambridge University Press.
+
+Rudiger, D. (2014). Como as análises freudianas terminavam? In J. Forbes (ed.) & C. Riolfi, (org). Psicanálise: a clínica do Real. (pp. 415-430). Manole.
+
+Safatle, V. (2007). A teoria das pulsões como ontologia negativa. Discurso, 36, pp. 148-189.
+
+Safatle, V. (2020). Maneiras de Transformar Mundos: Lacan, política e emancipação. Autêntica.
+
+Santos, T. C. & Santiago, J. (2012). Apresentação. In T. C. Santos, J. Santiago & A. Martello (Orgs.), De que real se trata na clínica psicanalítica? Psicanálise, ciência & discursos da ciência. (pp. 7-12). Cia de Freud.
+
+Santos, T. C., Santiago J. & Martello, A. (Orgs.) (2012). De que real se trata na clínica psicanalítica? Psicanálise, ciência & discursos da ciência. Cia de Freud.
+
+## Notas:
+
+[^1]: Conforme indicado nas referências, TR indica o texto “O Triunfo da Religião”. Entendo a ironia de usar um sistema de referência desse (em vez de um mais anônimo, como o da APA) em um texto que argumenta que devemos parar de tratar Lacan como excepcional. Para mim é ainda mais revoltante ter de usar 3 datas diferentes como costuma-se fazer (Lacan, 1964-1965/2013).
+
+[^2]: Na filosofia continental, mais familiar ao psicanalista, isso pode ser exemplificado por Deleuze: “A filosofia sempre se ocupou de conceitos, fazer filosofia é tentar inventar ou criar conceitos. Ocorre que os conceitos têm vários aspectos possíveis. Por muito tempo eles foram usados para determinar o que uma coisa é (essência). Nós, ao contrário, nos interessamos pelas circunstâncias de uma coisa; em que casos, onde e quando, como, etc.? Para nós, o conceito deve dizer o acontecimento, e não mais a essência.” (Deleuze, 1992, p. 37)
+
+[^3]: Parte da onipresença da linguagem é o fato de que se você só leu (ou foi induzido a ler) Freud na vida, tudo que se pareça com o que ele dizia vai ativar sua intuição sobre o que é verdadeiro. O nível de afetividade dos psicanalistas em relação ao Freud dispensa comentários. [Edward Bernays][1], criador das “relações públicas” e notável explorador no marketing da ideia de que as pessoas consumem por desejo e não por necessidade, era sobrinho do Freud. Ele entendeu o potencial dos afetos e o usou pra transformar a opinião pública sobre produtos e mesmo sobre governos. Pelo menos, ele admitiu que o que estava fazendo era manipulação. Enquanto isso, intuir que o Real é inefável é considerado um tipo de libertação. Sabe quem mais estava se libertando? As sufragistas fumando suas “tochas da liberdade” – um projeto de Bernays para aumentar a venda de cigarros.
+
+[^4]: Gostaria de reiterar que eu acho esse tipo de exegese uma perda de tempo. São poucos os casos em que caçar citações para argumentar o que Lacan “realmente disse” é uma investigação útil.  A análise daquilo que os lacanianos falam é, possivelmente, mais útil, na medida em que nos revela o que está sendo feito hoje.
+
+[^5]: “É justo que pareça novo que eu me tenha referido ao sujeito, quando é do inconsciente que se trata. Acreditei ter conseguido fazer vocês sentirem que tudo isto se passa no mesmo lugar, no lugar do sujeito que – da experiência cartesiana, reduzindo a um ponto o fundamento da certeza inaugural – tomou um valor arquimédico, se é que foi esse mesmo o ponto de apoio que permitiu a direção inteiramente outra que tomou a ciência, nominalmente a partir de Newton.” (Lacan, S11, p. 45).
+
+[^6]: Ele também fala que “o real real, a dizer, o verdadeiro real, é o único que nós conseguimos acessar, por um caminho preciso: o caminho científico. É o caminho das pequenas equações.” (Lacan, TR, p. 77). Um bom exemplo de porque eu não levaria a sério algo só porque aparece no texto lacaniano. Mas é engraçado ver isso em comparação com a citação dos autores lacanianos sobre a magia da psicanálise (Santos &  Santiago, 2012, p. 8). Mágico é falar coisas contraditórias e os seus seguidores acreditarem em todas ao mesmo tempo.
+
+[^7]: “Pai, não vês, estou queimando. Esta frase, ela própria é uma tocha –  ela sozinha põe fogo onde cai –  e não vemos o que queima, pois a chama nos cega sobre o fato de que o fogo pega no Unterlegt, no Untertragen no real. (Lacan, S11, p. 59)
+
+[^8]: Ver [Jaspers com Lacan][3].
+
+[^9]: “É totalmente superficial afirmar que só existe um pensamento conceitual, e que a outra alternativa seria um experienciar emocional difuso. Antes de todo compreender e vivência há ainda alguma coisa” (Heidegger apud Graña, 2016, p. 75)
+
+[^10]: “O primeiro nível do conhecer, fundamental para Aristóteles, é a sensação, contato imediato com o mundo, que não está espontaneamente articulada num simbolismo como o da língua, nem requer um fundamento de discurso e raciocínio.” (Granger, 1994, p. 24)
+
+[^11]: Ver, por exemplo, Goldenberg (1995) ou Dor (1991). Este último, comento [aqui][4].
+
+[^12]: Mas o real real, por assim dizer, o verdadeiro real, é aquele a que podemos ter acesso por um caminho muito preciso: o caminho científico. É o caminho das pequenas equações. (Lacan, TR, p. 77)
+
+[^13]: “Ficam dominados pela angústia quando pensam no que é educar. Há toneladas de remédios para essa ansiedade, em particular um certo número de ‘concepções do homem’, concepções da natureza humana.” (Lacan, TR, p. 56)
+
+[^14]: “Dediquei um ano inteiro do meu seminário a explicar a relação que brota do fato da existência dessa função completamente nova que é a função analítica” (Lacan, TR, p. 57)
+
+[^15]: “Sense perceptions can be and often are false and deceptive, however real they may appear to us. Where there is realization outside the senses it is infallible. It is proved not by extraneous evidence but in the transformed conduct and character of those who have felt the real presence of God within. […] I confess that I have no argument to convince through reason. Faith transcends reason. All that I can advise is not to attempt the impossible.” (Gandhi, 1931)
+
+[^16]: “se me perguntassem […] o que há de novo em psicanálise, eu lhes responderia: Freud.” (Green, 1990, p. 1).
+
+[^17]: A expressão hegemônica “descoberta freudiana” é uma evidência do que está em jogo aqui. Uma realidade desvelada, e não um sistema construído. Uma realidade Outra, inefável, transcendental, que Freud desvelou, tornando-a comensurável com o discurso normal e, portanto, constituindo A Realidade como ela é, em toda a sua brutalidade.
+
+[^18]: “Jamais fui sensível à superação da metafísica ou à morte da filosofia, e nunca fiz um drama da renúncia ao Todo, ao Uno, ao sujeito. Não rompi com uma espécie de empirismo, que faz uma exposição direta dos conceitos. Não passei pela estrutura, nem pela lingüística ou a psicanálise, pela ciência ou mesmo pela história, porque penso que a filosofia tem sua matéria-prima que lhe permite entrar em relações exteriores, tanto mais necessárias, com essas outras disciplinas. Talvez seja isso que Foucault queria dizer [com ‘um dia talvez o século será deleuzeano’]: eu não era o melhor, porém o mais ingênuo, uma espécie de arte bruta, por assim dizer; não o mais profundo, porém o mais inocente (o mais desprovido de culpa por ‘fazer filosofia’).” (Deleuze, 1992, p. 111).
+
+[^19]: "uma vida de plenitude nirvânica, já dizia Freud, só seria encontrada em útero ou na morte. Onde só há satisfação não há mais desejo e, na falta do desejo, a vida acaba” Vera Iaconelli, em seu [instagram][#].
+
+[1]: https://en.m.wikipedia.org/wiki/Edward_Bernays 
+	"Wikipedia - Edward_Bernays"
+[2]: https://en.wikipedia.org/wiki/Platonic_realism 
+	"Wikipedia - Platonic Realism"
+[3]: https://gustavocosta.psc.br/jaspers-com-lacan/ 
+	"Fora Freud - Jaspers com Lacan"
+[4]: https://gustavocosta.psc.br/psicanalidades-psicanalismo-perversao-e-ideologia/ 
+	"Fora Freud - Psicanalidades"
+[5]: https://en.wikipedia.org/wiki/Knight_of_faith 
+	"Wikipedia - Knight of Faith"
+[6]: https://www.imdb.com/title/tt1189073/ 
+	"IMDB"
+[7]: https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
+	"EWD340"
+[8]: https://www.youtube.com/watch?v=UEkaKjUG7fY 
+	"Paul Preciado na Jornada da Escola da Causa Freudiana"

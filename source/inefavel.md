@@ -627,8 +627,6 @@ Santos, T. C. & Santiago, J. (2012). Apresentação. In T. C. Santos, J. Santiag
 
 Santos, T. C., Santiago J. & Martello, A. (Orgs.) (2012). De que real se trata na clínica psicanalítica? Psicanálise, ciência & discursos da ciência. Cia de Freud.
 
-## Notas:
-
 [^1]: Conforme indicado nas referências, TR indica o texto “O Triunfo da Religião”. Entendo a ironia de usar um sistema de referência desse (em vez de um mais anônimo, como o da APA) em um texto que argumenta que devemos parar de tratar Lacan como excepcional. Para mim é ainda mais revoltante ter de usar 3 datas diferentes como costuma-se fazer (Lacan, 1964-1965/2013).
 
 [^2]: Na filosofia continental, mais familiar ao psicanalista, isso pode ser exemplificado por Deleuze: “A filosofia sempre se ocupou de conceitos, fazer filosofia é tentar inventar ou criar conceitos. Ocorre que os conceitos têm vários aspectos possíveis. Por muito tempo eles foram usados para determinar o que uma coisa é (essência). Nós, ao contrário, nos interessamos pelas circunstâncias de uma coisa; em que casos, onde e quando, como, etc.? Para nós, o conceito deve dizer o acontecimento, e não mais a essência.” (Deleuze, 1992, p. 37)
@@ -665,7 +663,7 @@ Santos, T. C., Santiago J. & Martello, A. (Orgs.) (2012). De que real se trata n
 
 [^18]: “Jamais fui sensível à superação da metafísica ou à morte da filosofia, e nunca fiz um drama da renúncia ao Todo, ao Uno, ao sujeito. Não rompi com uma espécie de empirismo, que faz uma exposição direta dos conceitos. Não passei pela estrutura, nem pela lingüística ou a psicanálise, pela ciência ou mesmo pela história, porque penso que a filosofia tem sua matéria-prima que lhe permite entrar em relações exteriores, tanto mais necessárias, com essas outras disciplinas. Talvez seja isso que Foucault queria dizer [com ‘um dia talvez o século será deleuzeano’]: eu não era o melhor, porém o mais ingênuo, uma espécie de arte bruta, por assim dizer; não o mais profundo, porém o mais inocente (o mais desprovido de culpa por ‘fazer filosofia’).” (Deleuze, 1992, p. 111).
 
-[^19]: "uma vida de plenitude nirvânica, já dizia Freud, só seria encontrada em útero ou na morte. Onde só há satisfação não há mais desejo e, na falta do desejo, a vida acaba” Vera Iaconelli, em seu [instagram][#].
+[^19]: "uma vida de plenitude nirvânica, já dizia Freud, só seria encontrada em útero ou na morte. Onde só há satisfação não há mais desejo e, na falta do desejo, a vida acaba” Vera Iaconelli, em seu [instagram][9].
 
 [1]: https://en.m.wikipedia.org/wiki/Edward_Bernays 
 	"Wikipedia - Edward_Bernays"
@@ -683,3 +681,5 @@ Santos, T. C., Santiago J. & Martello, A. (Orgs.) (2012). De que real se trata n
 	"EWD340"
 [8]: https://www.youtube.com/watch?v=UEkaKjUG7fY 
 	"Paul Preciado na Jornada da Escola da Causa Freudiana"
+[9]: https://www.instagram.com/p/CbYaZk6P__t/
+	"Post de Vera Iaconelli sobre a pulsão e a morte"

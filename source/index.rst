@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Resignar-se ao Real's documentation!
-===============================================
+Resignar-se ao Real: Lacan e o fascínio pelo inefável (v1.3)
+============================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: Índice:
 
-
+   inefavel
 
 Indices and tables
 ==================

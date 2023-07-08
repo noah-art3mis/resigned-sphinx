@@ -4,14 +4,19 @@
 
 https://gustavocosta.psc.br/resignarse-ao-real-lacan-e-o-fascinio-pelo-inefavel/
 
+## Hosted at
+
+(not yet. maybe read the docs?)
+
 ## Build
-
-    sphinx-build -b html source build/html
-
-or 
 
     ./make.bat html
 
-or (see `./make.bat help`)
+or 
 
     ./make.bat epub
+
+## TODO
+
+- [ ] fix logo transparency
+- [ ] https://alabaster.readthedocs.io/en/latest/customization.html#theme-options

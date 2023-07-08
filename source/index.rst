@@ -8,13 +8,5 @@ Resignar-se ao Real: Lacan e o fascínio pelo inefável (v1.3)
 
 .. toctree::
    :maxdepth: 3
-   :caption: Índice:
 
    inefavel
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

@@ -32,7 +32,7 @@ epub_show_urls = 'footnote'
 # Alabaster options!
 # https://alabaster.readthedocs.io/en/latest/customization.html#theme-options
 html_theme_options = {
-    'logo': './_static/simulacro.png',
+    'logo': './static/simulacro.png',
     'logo_name': 'true',
     'description': 'Não é que sejam burros, é que agem como tal!',
     'github_user': 'noah-art3mis',

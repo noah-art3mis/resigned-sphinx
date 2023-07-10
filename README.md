@@ -6,7 +6,7 @@ https://gustavocosta.psc.br/resignarse-ao-real-lacan-e-o-fascinio-pelo-inefavel/
 
 ## Hosted at
 
-(not yet. maybe read the docs?)
+https://docs-inefavel.readthedocs.io/en/latest/index.html
 
 ## Build
 
@@ -18,5 +18,6 @@ or
 
 ## TODO
 
-- [ ] fix logo transparency
+- [ ] fix logo
+  - [ ] fix logo transparency
 - [ ] https://alabaster.readthedocs.io/en/latest/customization.html#theme-options

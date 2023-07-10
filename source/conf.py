@@ -9,6 +9,7 @@
 project = 'Resignar-se ao Real'
 copyright = '2023, Gustavo Costa'
 author = 'Gustavo Costa'
+version = '1.3'
 release = '1.3'
 
 # -- General configuration ---------------------------------------------------

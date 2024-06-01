@@ -1,12 +1,12 @@
 # Resignar-se ao Real - Sphinx Version
 
-## Original
+Learning how to use Sphinx for documentation.
 
-https://gustavocosta.psc.br/resignarse-ao-real-lacan-e-o-fascinio-pelo-inefavel/
+## Links
 
-## Hosted at
+Hosted at: https://docs-inefavel.readthedocs.io/en/latest/index.html
 
-https://docs-inefavel.readthedocs.io/en/latest/index.html
+Original: https://gustavocosta.psc.br/resignarse-ao-real-lacan-e-o-fascinio-pelo-inefavel/
 
 ## Build
 
